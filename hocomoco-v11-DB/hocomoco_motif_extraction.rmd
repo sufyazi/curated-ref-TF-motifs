@@ -1,0 +1,107 @@
+---
+title: "HOCOMOCO Extraction for TOBIAS Footprinting"
+author: "Suffian Azizan"
+output: github_document
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+# Introduction
+We need to extract the data from the hocomoco motif files
+
+```{r}
+library(universalmotif)
+library(tools)
+library(stringr)
+```
+
+# Extracting the data
+We need to extract the data from the hocomoco motif files
+
+```{r}
+# Read the motif file
+jaspar_motifs <- read_jaspar("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt")
+
+# Initialise the count
+count <- 0
+
+# Iterate over each line in the motif file
+for (motif in jaspar_motifs) {
+    # print motif
+    print(motif)
+    # write to file as jaspar format in a tmp file
+    write_jaspar(motif, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/jaspar.tmp", overwrite = TRUE)
+    # read the temp file
+    file_content <- readLines("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/jaspar.tmp")
+    # extract the motif id
+    motif_id <- motif["name"]
+    print(motif_id)
+    # extract the tf name
+    tf_name <- sub("^>.*?([^_]+).*", "\\1", file_content[1])
+    # rewrite the file with the tf name
+    file_content[1] <- paste0(">", motif_id, "\t", tf_name)
+    print(file_content[1])
+
+    motif_filename <- paste0("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/jaspar_all_motifs/", motif_id, "_", tf_name, ".jaspar")
+
+    # write the file
+    writeLines(file_content, motif_filename)
+
+    # increment the counter
+    count <- count + 1
+
+    # append to fresh file if count = 0
+    if (count == 0) {
+        file.copy(motif_filename, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/hocomocov11_hs_all_motifs-FINAL.jaspar")
+    } else {
+        file.append("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/hocomocov11_hs_all_motifs-FINAL.jaspar", motif_filename)
+    }
+
+    # print the motif name to the console and the current count
+    print(paste0("Motif ", motif_id, " converted. Current count: ", count))
+}
+```
+
+## MEME format extractions
+
+```{r}
+# Read the motif file
+meme_motifs <- read_meme("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/HOCOMOCOv11_core_HUMAN_mono_meme_format.meme.txt")
+
+# Initialise the count
+count <- 0
+
+# Iterate over each line in the motif file
+for (motif in meme_motifs) {
+    # print motif
+    print(motif)
+    # write to file as jaspar format in a tmp file
+    write_meme(motif, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/meme.tmp", overwrite = TRUE, version = 4)
+    # read the temp file
+    file_content <- readLines("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/meme.tmp")
+    # extract the motif id
+    motif_id <- motif["name"]
+    print(motif_id)
+    # extract the tf name
+    tf_name <- sub(".*?([^_]+).*", "\\1", motif_id)
+    # rewrite the file with the tf name
+    file_content[10] <- paste0("MOTIF", " ", motif_id, " ", tf_name)
+
+    motif_filename <- paste0("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/meme_all_motifs/", motif_id, ".meme.txt")
+
+    # write the file
+    writeLines(file_content, motif_filename)
+
+    # increment the counter
+    count <- count + 1
+
+    # append to fresh file if count = 0
+    if (count == 0) {
+        file.copy(motif_filename, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/hocomocov11_hs_all_motifs-FINAL.meme.txt")
+    } else {
+        file.append("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/hocomoco-v11-DB/hocomocov11_hs_all_motifs-FINAL.meme.txt", motif_filename)
+    }
+
+    # print the motif name to the console and the current count
+    print(paste0("Motif ", motif_id, " converted. Current count: ", count))
+}
+```

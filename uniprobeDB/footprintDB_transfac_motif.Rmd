@@ -1,0 +1,154 @@
+---
+title: "Converting TRANSFAC Motif for TOBIAS Footprinting"
+author: "Suffian Azizan"
+output: github_document
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load libraries
+library(universalmotif)
+library(tools)
+library(stringr)
+```
+
+## Introduction
+First we read in the TRANSFAC-formatted motif file.
+
+
+```{read-in-transfac, include=FALSE}
+motif_transfac <- read_transfac("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/uniprobeDB/footprintDB.metazoa.motif.tf")
+
+# motif_transfac is an list object
+# filter for only motifs from human
+motif_transfac_homo <- filter_motifs(motif_transfac, organism = 'Homo')
+
+file_path <- "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/uniprobeDB/jaspar_uniprobe.tmp"
+substring_to_match <- "UniPROBE"
+
+# initialize counter
+count <- 0
+
+# Read lines from the file and check for the substring UniPROBE
+for (motif in motif_transfac_homo) {
+    write_jaspar(motif, file_path, overwrite = TRUE)
+    metadata <- readLines(file_path, n = 1)
+    if (grepl(substring_to_match, metadata)) {
+        print(metadata)
+        print("Match found!")
+        # Store the UniPROBE motif into a variable
+        file_content <- readLines(file_path)
+        # Extract substring after whitespace until the first colon to get the tf name from the first line of motif file
+        tf_name <- str_extract(file_content[1], "(?<=\\s)[^:\\s]+")
+        print(tf_name)
+        # Check if underscore is present in tf_name
+        if (grepl("_", tf_name)) {
+            tf_name_splits <- str_split(tf_name, "_")
+            tf_name <- tf_name_splits[[1]][1]
+            print("TF name cleaned up!")
+            print(tf_name)
+        }
+        # Extract substring between the first colon and the second colon to get the motif ID from the first line of motif file
+        motif_id <- str_extract(file_content[1], "(?<=:)[^:]+")
+        print(motif_id)
+
+        # Now rewrite the motif file with the correct metadata
+        # First line
+        file_content[1] <- paste0(">", motif_id, "\t", tf_name)
+        print(file_content[1])
+        
+        # write the file content to a new individual motif file
+        motif_filename <- paste0("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/uniprobeDB/jaspar_all_motifs_uniprobe/", motif_id, ".jaspar")
+        writeLines(file_content, motif_filename)
+
+        # append to fresh file if count = 0
+        if (count == 0) {
+            file.copy(motif_filename, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/uniprobeDB/all_motifs_uniprobe.jaspar")
+        } else {
+            file.append("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/uniprobeDB/all_motifs_uniprobe.jaspar", motif_filename)
+        }
+
+        # increment the counter
+        count <- count + 1
+
+        # print the motif name to the console and the current count
+        print(paste0("Motif ", motif_id, " converted. Current count: ", count))
+    }
+    else{
+        next
+    }
+}
+```
+
+## MEME format
+Now we convert the motifs to MEME format.
+
+```{convert-to-meme, include=FALSE}
+# Read in motif file
+motif_transfac <- read_transfac("/Users/sufyazi/bioinformatics/footprintDB.metazoa.motif.tf")
+
+# motif_transfac is an list object
+# filter for only motifs from human
+motif_transfac_homo <- filter_motifs(motif_transfac, organism = 'Homo')
+
+file_path <- "/Users/sufyazi/bioinformatics/meme_uniprobe.tmp"
+substring_to_match <- "UniPROBE"
+
+# initialize counter
+count <- 0
+
+# Read lines from the file and check for the substring UniPROBE
+for (motif in motif_transfac_homo) {
+    write_meme(motif, file_path, overwrite = TRUE, version = 4)
+    # Store the UniPROBE motif into a variable
+    file_content <- readLines(file_path)
+    
+    if (grepl(substring_to_match, file_content[10])) {
+        print(file_content[10])
+        print("Match found!")
+
+        # Extract substring after whitespace until the first slash to get the tf name from the metadata line
+        # Extract tf_name
+        tf_name <- str_extract(file_content[10], "(?<=MOTIF\\s)[^\\/]+")
+        print(tf_name)
+
+        # Check if underscore is present in tf_name
+        if (grepl("_", tf_name)) {
+            tf_name_splits <- str_split(tf_name, "_")
+            tf_name <- tf_name_splits[[1]][1]
+            print("TF name cleaned up!")
+            print(tf_name)
+        }
+
+        # Extract motif_id
+        motif_id <- str_extract(file_content[10], "(?<=\\/)[^\\/]+")
+
+        # Now rewrite the motif file with the correct metadata
+        file_content[10] <- paste0("MOTIF", " ", motif_id, " ", tf_name)
+        print(file_content[10])
+        
+        # write the file content to a new individual motif file
+        writeLines(file_content, paste0("meme_all_motifs_uniprobe/", motif_id, ".meme.txt"))
+
+        motif_filename <- paste0("meme_all_motifs_uniprobe/", motif_id, ".meme.txt")
+
+        # append to fresh file if count = 0
+        if (count == 0) {
+            file.copy(motif_filename, "all_motifs_uniprobe.meme.txt")
+        } else {
+            file.append("all_motifs_uniprobe.meme.txt", motif_filename)
+        }
+
+        # increment the counter
+        count <- count + 1
+
+        # print the motif name to the console and the current count
+        print(paste0("Motif ", motif_id, " converted. Current count: ", count))
+    }
+    else{
+        next
+    }
+}
+```

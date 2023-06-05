@@ -1,0 +1,146 @@
+---
+title: "Converting Motif Formats for TOBIAS Footprinting"
+author: "Suffian Azizan"
+output: github_document
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load libraries
+library(universalmotif)
+library(tools)
+```
+
+## Load up metadata for the motifs
+First, the metadata file containing the motif details are loaded.
+
+```{r read-in-data, eval=FALSE, include=TRUE}
+# Load the TSV file as a dataframe
+metadata_df <- read.delim("/Users/sufyazi/bioinformatics/cisbp/TF_Information_all_motifs_plus_Source-Type_cols_filtered.tsv", sep = "\t") # nolint: line_length_linter.
+
+# Print the first 6 rows of the dataframe
+head(metadata_df)
+
+```
+
+
+## Use the package `universalmotif` to convert the motif files
+
+Then, let us convert the cisBP matrix format (PWM) into `jaspar` format. 
+
+```{r read-in-data-jaspar, eval=FALSE, include=TRUE}
+# initialize counter
+count <- 0
+# loop through all the motif files in a folder
+for (file in list.files("pwms_all_motifs/")) {
+  # read in the motif
+  motif <- read_cisbp(paste0("pwms_all_motifs/", file))
+
+  # write to file as jaspar format in a tmp file
+  write_jaspar(motif, "jaspar.tmp", overwrite = TRUE)
+
+  # read in the basename of the motif file without file extension
+  motif_id <- file_path_sans_ext(file)
+
+  # filter the metadata dataframe to get the TF name; first filter by motif ID, then filter by TF status of 'direct (D)'
+  filtered_metadata_df <- subset(metadata_df, Motif_ID == motif_id & TF_Status == "D") # nolint: line_length_linter.
+
+  # check if the filtered dataframe is empty
+  if (nrow(filtered_metadata_df) == 0) {
+  print("No motif found")
+  next
+  } else {
+    if (length(unique(filtered_metadata_df$TF_Name)) == 1) {
+      print("Found the associated TF. Assigning the TF name to the motif...")
+      tf_name <- unique(filtered_metadata_df$TF_Name)
+      motif_name <- paste0(motif_id, "\t", tf_name)
+    } else {
+      print("More than one TF associated with the motif are found in the database. Skipping motif extraction...") # nolint: line_length_linter.
+      next
+    }
+  }
+
+  # rename the string 'new motif' in the tmp file to the motif name
+  file_content <- readLines("jaspar.tmp")
+  file_content <- gsub("new motif", motif_name, file_content)
+
+  # write the file content to a new individual motif file
+  writeLines(file_content, paste0("jaspar_all_motifs/", motif_id, ".jaspar"))
+
+  motif_filename <- paste0("jaspar_all_motifs/", motif_id, ".jaspar")
+
+  # append to fresh file if count = 0
+  if (count == 0) {
+    file.copy(motif_filename, "all_motifs_cisbp.jaspar")
+  } else {
+    file.append("all_motifs_cisbp.jaspar", motif_filename)
+  }
+
+  # increment the counter
+  count <- count + 1
+
+  # print the motif name to the console and the current count
+  print(paste0("Motif ", motif_name, " converted. Current count: ", count))
+}
+```
+
+Next, we can do the same to generate a `meme` format file.
+
+```{r read-in-data-meme, eval=FALSE, include=TRUE}
+
+# initialize counter
+count <- 0
+# loop through all the motif files in a folder
+for (file in list.files("pwms_all_motifs/")) {
+  # read in the motif
+  motif <- read_cisbp(paste0("pwms_all_motifs/", file))
+
+  # write to file as jaspar format in a tmp file
+  write_meme(motif, "meme.tmp", overwrite = TRUE, version = 4)
+
+  # read in the basename of the motif file without file extension
+  motif_id <- file_path_sans_ext(file)
+
+  # filter the metadata dataframe to get the TF name; first filter by motif ID, then filter by TF status of 'direct (D)'
+  filtered_metadata_df <- subset(metadata_df, Motif_ID == motif_id & TF_Status == "D") # nolint: line_length_linter.
+
+  # check if the filtered dataframe is empty
+  if (nrow(filtered_metadata_df) == 0) {
+  print("No motif found")
+  next
+  } else {
+    if (length(unique(filtered_metadata_df$TF_Name)) == 1) {
+      print("Found the associated TF. Assigning the TF name to the motif...")
+      tf_name <- unique(filtered_metadata_df$TF_Name)
+      motif_name <- paste0(motif_id, " ", tf_name)
+    } else {
+      print("More than one TF associated with the motif are found in the database. Skipping motif extraction...") # nolint: line_length_linter.
+      next
+    }
+  }
+
+  # rename the string 'new motif' in the tmp file to the motif name
+  file_content <- readLines("meme.tmp")
+  file_content <- gsub("new-motif", motif_name, file_content)
+
+  # write the file content to a new individual motif file
+  writeLines(file_content, paste0("meme_all_motifs/", motif_id, ".meme.txt"))
+
+  motif_filename <- paste0("meme_all_motifs/", motif_id, ".meme.txt")
+
+  # append to fresh file if count = 0
+  if (count == 0) {
+    file.copy(motif_filename, "all_motifs_cisbp.meme.txt")
+  } else {
+    file.append("all_motifs_cisbp.meme.txt", motif_filename)
+  }
+
+  # increment the counter
+  count <- count + 1
+
+  # print the motif name to the console and the current count
+  print(paste0("Motif ", motif_name, " converted. Current count: ", count))
+}
+```

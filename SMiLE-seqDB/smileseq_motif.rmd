@@ -1,0 +1,143 @@
+---
+title: "Converting SMiLE-seq pcm Motif for TOBIAS Footprinting"
+author: "Suffian Azizan"
+output: github_document
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load libraries
+library(universalmotif)
+library(tools)
+library(stringr)
+```
+
+## Introduction
+
+This document describes the steps to convert the SMiLE-seq pcm motif file to a format that can be used by TOBIAS for footprinting analysis. The pcm motif file is obtained from the SMiLE-seq study. The motif file is converted to a meme format using the `universalmotif` package.
+
+## Converting pcm to jaspar format
+
+```{r ppm2jaspar, include=FALSE}
+motif_test <- read_matrix("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/SMiLE_seq_PWMs/H.sapiens/ARNTL_CLOCK.pcm", alphabet = "DNA", headers = FALSE, rownames = TRUE)
+
+motif_path <- "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/SMiLE_seq_PWMs/H.sapiens"
+
+# initialize counter
+count <- 0
+
+# Read lines from the file and check for the substring UniPROBE
+for (motif in list.files(motif_path)) {
+    # save file path
+    motif_file <- paste0(motif_path, "/", motif)
+    print(motif_file)
+
+    # read the motif file
+    motif_object <- read_matrix(motif_file, alphabet = "DNA", headers = FALSE, rownames = TRUE)
+    # get the TF name from the filename and then put it into a variable
+    tf_name <- file_path_sans_ext(basename(motif_file))
+
+    # increment the counter
+    count <- count + 1
+
+    # generate motif id
+    if (count < 10) {
+        motif_id <- paste0("MSM0_0", count)
+    } else {
+        motif_id <- paste0("MSM0_", count)
+    }
+
+    # add the motif id to the motif object
+    motif_object["name"] <- motif_id
+
+    print(motif_object)
+
+    # write to file as jaspar format in a tmp file
+    write_jaspar(motif_object, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/jaspar.tmp", overwrite = TRUE)
+
+    # read the temp file
+    file_content <- readLines("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/jaspar.tmp")
+
+    # rewrite the motif file with the correct metadata
+    file_content[1] <- paste0(">", motif_id, "\t", tf_name)
+    print(file_content[1])
+
+    motif_filename <- paste0("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/jaspar_all_motifs/", motif_id, "_", tf_name, ".jaspar")
+
+    # write the file content to a new individual motif file
+    writeLines(file_content, motif_filename)
+
+    # append to fresh file if count = 0
+    if (count == 0) {
+        file.copy(motif_filename, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/all_motifs_smileseq.jaspar")
+    } else {
+        file.append("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/all_motifs_smileseq.jaspar", motif_filename)
+    }
+
+    # print the motif name to the console and the current count
+    print(paste0("Motif ", motif_object["name"], " converted. Current count: ", count))
+}
+```
+
+## Convert ppm to meme format
+
+```{r ppm2meme, include=FALSE}
+motif_path <- "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/SMiLE_seq_PWMs/H.sapiens"
+
+# initialize counter
+count <- 0
+
+# Read lines from the file and check for the substring UniPROBE
+for (motif in list.files(motif_path)) {
+    # save file path
+    motif_file <- paste0(motif_path, "/", motif)
+    print(motif_file)
+
+    # read the motif file
+    motif_object <- read_matrix(motif_file, alphabet = "DNA", headers = FALSE, rownames = TRUE)
+    # get the TF name from the filename and then put it into a variable
+    tf_name <- file_path_sans_ext(basename(motif_file))
+
+    # increment the counter
+    count <- count + 1
+
+    # generate motif id
+    if (count < 10) {
+        motif_id <- paste0("MSM0_0", count)
+    } else {
+        motif_id <- paste0("MSM0_", count)
+    }
+
+    # add the motif id to the motif object
+    motif_object["name"] <- motif_id
+
+    print(motif_object)
+
+    # write to file as jaspar format in a tmp file
+    write_meme(motif_object, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/meme.tmp", overwrite = TRUE, version = 4)
+
+    # read the temp file
+    file_content <- readLines("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/meme.tmp")
+
+    # rewrite the motif file with the correct metadata
+    file_content[10] <- paste0("MOTIF", " ", motif_id, " ", tf_name)
+    print(file_content[10])
+
+    motif_filename <- paste0("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/meme_all_motifs/", motif_id, "_", tf_name, ".meme.txt")
+
+    # write the file content to a new individual motif file
+    writeLines(file_content, motif_filename)
+
+    # append to fresh file if count = 0
+    if (count == 0) {
+        file.copy(motif_filename, "/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/all_motifs_smileseq.meme.txt")
+    } else {
+        file.append("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/SMiLE-seqDB/all_motifs_smileseq.meme.txt", motif_filename)
+    }
+
+    # print the motif name to the console and the current count
+    print(paste0("Motif ", motif_object["name"], " converted. Current count: ", count))
+}
+```
