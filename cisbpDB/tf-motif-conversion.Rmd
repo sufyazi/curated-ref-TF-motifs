@@ -18,7 +18,7 @@ First, the metadata file containing the motif details are loaded.
 
 ```{r read-in-data, eval=FALSE, include=TRUE}
 # Load the TSV file as a dataframe
-metadata_df <- read.delim("/Users/sufyazi/bioinformatics/ref-tf-motif-extractions/cisbpDB/TF_Information_all_motifs_plus_Source-Type_cols_filtered.tsv", sep = "\t") # nolint: line_length_linter.
+metadata_df <- read.delim("~/Documents/local-storage/bioinf/repos/reference-TF-motifs/cisbpDB/TF_Information_all_motifs_plus_Source-Type_cols_filtered.tsv", sep = "\t") # nolint: line_length_linter.
 
 # Print the first 6 rows of the dataframe
 head(metadata_df)
@@ -88,7 +88,7 @@ for (file in list.files("pwms_all_motifs/")) {
 
 Next, we can do the same to generate a `meme` format file.
 
-```{r read-in-data-meme, eval=FALSE, include=TRUE}
+```{r read-in-data-meme, eval=FALSE, include=TRUE, echo=FALSE}
 
 # initialize counter
 count <- 0
@@ -97,15 +97,15 @@ for (file in list.files("pwms_all_motifs/")) {
   # read in the motif
   motif <- read_cisbp(paste0("pwms_all_motifs/", file))
 
-  # write to file as jaspar format in a tmp file
+  # write to file as meme format in a tmp file
   write_meme(motif, "meme.tmp", overwrite = TRUE, version = 4)
 
   # read in the basename of the motif file without file extension
   motif_id <- file_path_sans_ext(file)
 
-  # filter the metadata dataframe to get the TF name; first filter by motif ID, then filter by TF status of 'direct (D)'
-  filtered_metadata_df <- subset(metadata_df, Motif_ID == motif_id & TF_Status == "D") # nolint: line_length_linter.
-
+  # filter the metadata dataframe to get the TF name; first filter by motif ID, then filter by TF status of 'direct (D)' and then by experiment type
+  filtered_metadata_df <- subset(metadata_df, Motif_ID == motif_id & TF_Status == "D" & (Motif_Type == "ChIP-seq" | Motif_Type == "ChIP-chip" | Motif_Type == "ChIP-seq+ChIP-exo")) 
+  
   # check if the filtered dataframe is empty
   if (nrow(filtered_metadata_df) == 0) {
   print("No motif found")
@@ -126,17 +126,17 @@ for (file in list.files("pwms_all_motifs/")) {
   file_content <- gsub("new-motif", motif_name, file_content)
 
   # write the file content to a new individual motif file
-  writeLines(file_content, paste0("meme_all_motifs/", motif_id, ".meme.txt"))
+  writeLines(file_content, paste0("meme_all_motifs-D-ChIP-seq-exo-filt/", motif_id, ".meme"))
 
-  motif_filename <- paste0("meme_all_motifs/", motif_id, ".meme.txt")
+  motif_filename <- paste0("meme_all_motifs-D-ChIP-seq-exo-filt/", motif_id, ".meme")
 
   # append to fresh file if count = 0
   if (count == 0) {
-    file.copy(motif_filename, "all_motifs_cisbp.meme.txt")
+    file.copy(motif_filename, "all_motifs_cisbp_D-ChIP-seq-exo-filtered.meme")
   } else {
-    file.append("all_motifs_cisbp.meme.txt", motif_filename)
+    file.append("all_motifs_cisbp_D-ChIP-seq-exo-filtered.meme", motif_filename)
   }
-
+  
   # increment the counter
   count <- count + 1
 
@@ -144,3 +144,49 @@ for (file in list.files("pwms_all_motifs/")) {
   print(paste0("Motif ", motif_name, " converted. Current count: ", count))
 }
 ```
+
+
+Read in data from JASPAR format from JASPAR database then convert into MEME.
+
+
+```{r read-in-data-jaspar, eval=FALSE, include=TRUE, echo=FALSE}
+library(jsonlite)
+setwd('/Users/sufyazi/Documents/local-storage/bioinf/repos/reference-TF-motifs/jasparDB/')
+
+# initialize counter
+count <- 0
+# loop through all the motif files in a folder
+for (file in list.files("jaspar_core_hs_nonredun_chipseq-exo-only-filt_jasp/")) {
+  # read in the motif
+  motif <- read_jaspar(paste0("jaspar_core_hs_nonredun_chipseq-exo-only-filt_jasp/", file))
+  
+  # get motif_id from file name (basename)
+  # read in the basename of the motif file without file extension
+  motif_id <- file_path_sans_ext(file)
+  
+  # write to file as meme format in a tmp file
+  write_meme(motif, "meme.tmp", overwrite = TRUE, version = 4)
+
+  # read lines in meme.tmp
+  file_content <- readLines("meme.tmp")
+
+  # write the file content to a new individual motif file
+  writeLines(file_content, paste0("jaspar_core_hs_nonredun_chipseq-exo-only-filt_meme/", motif_id, ".meme"))
+
+  motif_filename <- paste0("jaspar_core_hs_nonredun_chipseq-exo-only-filt_meme/", motif_id, ".meme")
+
+  # append to fresh file if count = 0
+  if (count == 0) {
+    file.copy(motif_filename, "jaspar_core_hs_TF_nonredundant-filt-matrices_chipseq-exo.meme")
+  } else {
+    file.append("jaspar_core_hs_TF_nonredundant-filt-matrices_chipseq-exo.meme", motif_filename)
+  }
+  
+  # increment the counter
+  count <- count + 1
+
+  # print the motif name to the console and the current count
+  print(paste0("Motif ", motif_name, " converted. Current count: ", count))
+}
+```
+

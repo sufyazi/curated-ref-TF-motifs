@@ -1,0 +1,3 @@
+data/custom_inputs/all_motifs_cisbp_D-ChIP-seq-exo-filtered.meme	cisBP	meme
+data/custom_inputs/hocomocov11_hs_all_motifs-FINAL.meme	HOCOMOCO	meme
+data/custom_inputs/jaspar_core_hs_TF_nonredundant-filt-matrices_chipseq-exo.meme	JASPAR	meme
