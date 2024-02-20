@@ -1,0 +1,1361 @@
+motif_id	tf_name	tf_class	tf_family	tf_subfamily
+AHR_AHR_HUMAN.H11MO.0.B	AHR	basic helix-loop-helix (bHLH)	PAS domain factors	Ahr-like factors
+AIRE_AIRE_HUMAN.H11MO.0.C	AIRE	SAND domain factors	AIRE	AIRE
+ALX1_ALX1_HUMAN.H11MO.0.B	ALX1	homeo domain factors	paired-related HD factors	ALX
+ANDR_ANDR_HUMAN.H11MO.0.A	ANDR	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	GR-like receptors (NR3C)
+AP2A_AP2A_HUMAN.H11MO.0.A	AP2A	basic helix-span-helix (bHSH) factors	AP2	N/A
+AP2B_AP2B_HUMAN.H11MO.0.B	AP2B	basic helix-span-helix (bHSH) factors	AP2	N/A
+AP2C_AP2C_HUMAN.H11MO.0.A	AP2C	basic helix-span-helix (bHSH) factors	AP2	N/A
+ARI5B_ARI5B_HUMAN.H11MO.0.C	ARI5B	ARID domain factors	ARID-related factors	ARID5
+ARNT_ARNT_HUMAN.H11MO.0.B	ARNT	basic helix-loop-helix (bHLH) factors	PAS domain factors	Arnt-like factors
+ASCL1_ASCL1_HUMAN.H11MO.0.A	ASCL1	basic helix-loop-helix (bHLH) factors	MyoD/ASC-related factors	Achaete-Scute-like factors
+ASCL1_M08055_2.00	ASCL1	basic helix-loop-helix (bHLH) factors	MyoD/ASC-related factors	Achaete-Scute-like factors
+ASCL1_MA1631.1	ASCL1	basic helix-loop-helix (bHLH) factors	MyoD/ASC-related factors	Achaete-Scute-like factors
+ATF1_ATF1_HUMAN.H11MO.0.B	ATF1	basic leucine zipper (bZIP) factors	CREB-related factors	CREB-like factors
+ATF2_ATF2_HUMAN.H11MO.0.B	ATF2	basic leucine zipper (bZIP) factors	Jun-related factors	ATF-2-like factors
+ATF2_MA1632.1	ATF2	basic leucine zipper (bZIP) factors	Jun-related factors	ATF-2-like factors
+ATF3_ATF3_HUMAN.H11MO.0.A	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF3_M07822_2.00	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF3_M07823_2.00	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF3_M07824_2.00	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF3_M07825_2.00	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF3_M08187_2.00	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF3_M08188_2.00	ATF3	basic leucine zipper (bZIP) factors	Fos-related factors	ATF-3-like factors
+ATF4_ATF4_HUMAN.H11MO.0.A	ATF4	basic leucine zipper (bZIP) factors	ATF-4-related factors	N/A
+ATF4_MA0833.2	ATF4	basic leucine zipper (bZIP) factors	ATF-4-related factors	N/A
+ATF6A_ATF6A_HUMAN.H11MO.0.B	ATF6A	basic leucine zipper (bZIP) factors	CREB-related factors	ATF-6 factors
+ATOH1_ATOH1_HUMAN.H11MO.0.B	ATOH1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+BACH1_BACH1_HUMAN.H11MO.0.A	BACH1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+BACH1_M08184_2.00	BACH1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+BACH1_M08185_2.00	BACH1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+BACH1_M08186_2.00	BACH1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+BACH2_BACH2_HUMAN.H11MO.0.A	BACH2	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+BACH2_M08065_2.00	BACH2	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+BATF_BATF_HUMAN.H11MO.0.A	BATF	basic leucine zipper (bZIP) factors	B-ATF-related factors	N/A
+BATF_M07821_2.00	BATF	basic leucine zipper (bZIP) factors	B-ATF-related factors	N/A
+BATF_MA1634.1	BATF	basic leucine zipper (bZIP) factors	B-ATF-related factors	N/A
+BATF3_BATF3_HUMAN.H11MO.0.B	BATF3	basic leucine zipper (bZIP) factors	B-ATF-related factors	N/A
+BATF3_MA0835.2	BATF3	basic leucine zipper (bZIP) factors	B-ATF-related factors	N/A
+BATFJUN_MA0462.2	BATFJUN	basic leucine zipper (bZIP) factors	B-ATF-related factors	N/A
+BC11A_BC11A_HUMAN.H11MO.0.A	BC11A	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	BCL11
+BC11A_M07926_2.00	BC11A	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	BCL11
+BCL6_BCL6_HUMAN.H11MO.0.A	BCL6	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	BCL6
+BHA15_BHA15_HUMAN.H11MO.0.B	BHA15	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+BHE40_BHE40_HUMAN.H11MO.0.A	BHE40	basic helix-loop-helix (bHLH) factors	Hairy-related factors	Hairy-like factors
+BHLHE22_MA1635.1	BHLHE22	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+BHLHE40_M07798_2.00	BHLHE40	basic helix-loop-helix (bHLH) factors	Hairy-related factors	Hairy-like factors
+BMAL1_BMAL1_HUMAN.H11MO.0.A	BMAL1	basic helix-loop-helix (bHLH)	PAS domain factors	Arnt-like factors
+BRAC_BRAC_HUMAN.H11MO.0.A	BRAC	T-box factors	Brachyury-related factors	T (Brachyury)
+CDX1_CDX1_HUMAN.H11MO.0.C	CDX1	homeo domain factors	HOX-related factors	CDX (caudal type homeobox)
+CDX2_CDX2_HUMAN.H11MO.0.A	CDX2	homeo domain factors	HOX-related factors	CDX (caudal type homeobox)
+CDX2_M08131_2.00	CDX2	homeo domain factors	HOX-related factors	CDX (caudal type homeobox)
+CDX2_MA0465.2	CDX2	homeo domain factors	HOX-related factors	CDX (caudal type homeobox)
+CEBPA_CEBPA_HUMAN.H11MO.0.A	CEBPA	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPA_M08076_2.00	CEBPA	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPA_MA0102.4	CEBPA	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPB_CEBPB_HUMAN.H11MO.0.A	CEBPB	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPB_M07830_2.00	CEBPB	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPB_M07831_2.00	CEBPB	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPB_M07832_2.00	CEBPB	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPD_CEBPD_HUMAN.H11MO.0.C	CEBPD	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPD_MA0836.2	CEBPD	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPE_CEBPE_HUMAN.H11MO.0.A	CEBPE	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPG_CEBPG_HUMAN.H11MO.0.B	CEBPG	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CEBPG_MA1636.1	CEBPG	basic leucine zipper (bZIP) factors	C/EBP-related	C/EBP
+CLOCK_CLOCK_HUMAN.H11MO.0.C	CLOCK	basic helix-loop-helix (bHLH) factors	PAS domain factors	Arnt-like factors
+COE1_COE1_HUMAN.H11MO.0.A	COE1	Rel homology region (RHR) factors	early B-cell factor-related factors	N/A
+COT1_COT1_HUMAN.H11MO.0.C	COT1	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	COUP-like receptors (NR2F)
+COT2_COT2_HUMAN.H11MO.0.A	COT2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	COUP-like receptors (NR2F)
+CREB1_CREB1_HUMAN.H11MO.0.A	CREB1	basic leucine zipper (bZIP) factors	CREB-related factors	CREB-like factors
+CREB1_M08066_2.00	CREB1	basic leucine zipper (bZIP) factors	CREB-related factors	CREB-like factors
+CREB1_MA0018.4	CREB1	basic leucine zipper (bZIP) factors	CREB-related factors	CREB-like factors
+CREM_CREM_HUMAN.H11MO.0.C	CREM	basic leucine zipper (bZIP) factors	CREB-related factors	CREB-like factors
+CREM_MA0609.2	CREM	basic leucine zipper (bZIP) factors	CREB-related factors	CREB-like factors
+CRX_CRX_HUMAN.H11MO.0.B	CRX	homeo domain factors	paired-related HD factors	OTX
+CTCF_CTCF_HUMAN.H11MO.0.A	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07862_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07863_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07864_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07865_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07866_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07867_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07868_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07869_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07870_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07871_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07872_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07873_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07874_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07875_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07876_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07877_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07878_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07879_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07880_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07881_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07882_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07883_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07884_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07885_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07886_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07887_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07888_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07889_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07890_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07891_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07892_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07893_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07894_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07895_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07896_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07897_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07898_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07899_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07900_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07901_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07902_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07903_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07904_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07905_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07906_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07907_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07908_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07909_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07910_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07911_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07912_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07913_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07914_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07915_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07916_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07917_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07918_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07919_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07920_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07921_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07922_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07923_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07924_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M07925_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M08087_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M08238_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_M08289_2.00	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_MA0139.1	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_MA1929.1	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCF_MA1930.1	CTCF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCFL_CTCFL_HUMAN.H11MO.0.A	CTCFL	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCFL_M07930_2.00	CTCFL	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCFL_M08089_2.00	CTCFL	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CTCFL_MA1102.2	CTCFL	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	CTCF-like factors
+CUX1_CUX1_HUMAN.H11MO.0.C	CUX1	homeo domain factors	HD-CUT factors	CUX
+DBP_DBP_HUMAN.H11MO.0.B	DBP	basic leucine zipper (bZIP) factors	C/EBP-related	PAR factors
+DLX3_DLX3_HUMAN.H11MO.0.C	DLX3	homeo domain factors	NK-related factors	DLX
+DUX4_DUX4_HUMAN.H11MO.0.A	DUX4	homeo domain factors	paired-related HD factors	DUX
+DUX4_M08135_2.00	DUX4	homeo domain factors	paired-related HD factors	DUX
+DUX4_MA0468.1	DUX4	homeo domain factors	paired-related HD factors	DUX
+E2F1_E2F1_HUMAN.H11MO.0.A	E2F1	forkhead/winged helix factors	E2F-related factors	E2F
+E2F1_M07938_2.00	E2F1	forkhead/winged helix factors	E2F-related factors	E2F
+E2F2_E2F2_HUMAN.H11MO.0.B	E2F2	forkhead/winged helix factors	E2F-related factors	E2F
+E2F3_E2F3_HUMAN.H11MO.0.A	E2F3	forkhead/winged helix factors	E2F-related factors	E2F
+E2F4_E2F4_HUMAN.H11MO.0.A	E2F4	forkhead/winged helix factors	E2F-related factors	E2F
+E2F4_M07942_2.00	E2F4	forkhead/winged helix factors	E2F-related factors	E2F
+E2F4_M07943_2.00	E2F4	forkhead/winged helix factors	E2F-related factors	E2F
+E2F4_M08109_2.00	E2F4	forkhead/winged helix factors	E2F-related factors	E2F
+E2F5_E2F5_HUMAN.H11MO.0.B	E2F5	forkhead/winged helix factors	E2F-related factors	E2F
+E2F6_E2F6_HUMAN.H11MO.0.A	E2F6	forkhead/winged helix factors	E2F-related factors	E2F
+E2F6_M07939_2.00	E2F6	forkhead/winged helix factors	E2F-related factors	E2F
+E2F6_M07940_2.00	E2F6	forkhead/winged helix factors	E2F-related factors	E2F
+E2F6_M07941_2.00	E2F6	forkhead/winged helix factors	E2F-related factors	E2F
+E2F6_M08107_2.00	E2F6	forkhead/winged helix factors	E2F-related factors	E2F
+E2F6_MA0471.2	E2F6	forkhead/winged helix factors	E2F-related factors	E2F
+E2F7_E2F7_HUMAN.H11MO.0.B	E2F7	forkhead/winged helix factors	E2F-related factors	E2F
+EBF1_MA0154.4	EBF1	Rel homology region (RHR) factors	early B-cell factor-related factors	N/A
+EBF3_MA1637.1	EBF3	Rel homology region (RHR) factors	early B-cell factor-related factors	N/A
+EGR1_EGR1_HUMAN.H11MO.0.A	EGR1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR1_M07927_2.00	EGR1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR1_M07928_2.00	EGR1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR1_M07929_2.00	EGR1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR1_MA0162.4	EGR1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR2_EGR2_HUMAN.H11MO.0.A	EGR2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR2_M08302_2.00	EGR2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EGR3_M08349_2.00	EGR3	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	EGR factors
+EHF_EHF_HUMAN.H11MO.0.B	EHF	tryptophan cluster factors	Ets-related factors	EHF-like factors
+EHF_MA0598.3	EHF	tryptophan cluster factors	Ets-related factors	EHF-like factors
+ELF1_ELF1_HUMAN.H11MO.0.A	ELF1	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF1_M07947_2.00	ELF1	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF1_M07948_2.00	ELF1	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF1_M07949_2.00	ELF1	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF1_M08198_2.00	ELF1	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF1_MA0473.3	ELF1	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF2_ELF2_HUMAN.H11MO.0.C	ELF2	tryptophan cluster factors	Ets-related factors	Elf-1-like factors
+ELF3_ELF3_HUMAN.H11MO.0.A	ELF3	tryptophan cluster factors	Ets-related factors	EHF-like factors
+ELF3_MA0640.2	ELF3	tryptophan cluster factors	Ets-related factors	EHF-like factors
+ELF5_ELF5_HUMAN.H11MO.0.A	ELF5	tryptophan cluster factors	Ets-related factors	EHF-like factors
+ELK1_ELK1_HUMAN.H11MO.0.B	ELK1	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ELK4_ELK4_HUMAN.H11MO.0.A	ELK4	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ELK4_M07957_2.00	ELK4	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ELK4_M07958_2.00	ELK4	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ELK4_M08112_2.00	ELK4	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ELK4_MA0076.2	ELK4	tryptophan cluster factors	Ets-related factors	Elk-like factors
+EPAS1_EPAS1_HUMAN.H11MO.0.B	EPAS1	basic helix-loop-helix (bHLH)	PAS domain factors	Ahr-like factors
+ERG_ERG_HUMAN.H11MO.0.A	ERG	tryptophan cluster factors	Ets-related factors	Ets-like factors
+ERR1_ERR1_HUMAN.H11MO.0.A	ERR1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ERR2_ERR2_HUMAN.H11MO.0.A	ERR2	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ERR3_ERR3_HUMAN.H11MO.0.B	ERR3	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR1_ESR1_HUMAN.H11MO.0.A	ESR1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR1_M07985_2.00	ESR1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR1_M08217_2.00	ESR1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR1_M08218_2.00	ESR1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR2_ESR2_HUMAN.H11MO.0.A	ESR2	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR2_M08154_2.00	ESR2	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESR2_MA0258.2	ESR2	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESRRA_M07988_2.00	ESRRA	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESRRA_M07989_2.00	ESRRA	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ESRRA_MA0592.3	ESRRA	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	ER-like receptors (NR3A&B)
+ETS1_ETS1_HUMAN.H11MO.0.A	ETS1	tryptophan cluster factors	Ets-related factors	Ets-like factors
+ETS1_M07950_2.00	ETS1	tryptophan cluster factors	Ets-related factors	Ets-like factors
+ETS1_M07951_2.00	ETS1	tryptophan cluster factors	Ets-related factors	Ets-like factors
+ETS2_ETS2_HUMAN.H11MO.0.B	ETS2	tryptophan cluster factors	Ets-related factors	Ets-like factors
+ETV1_ETV1_HUMAN.H11MO.0.A	ETV1	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ETV1_MA0761.2	ETV1	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ETV2_ETV2_HUMAN.H11MO.0.B	ETV2	tryptophan cluster factors	Ets-related factors	Ets-like factors
+ETV4_ETV4_HUMAN.H11MO.0.B	ETV4	tryptophan cluster factors	Ets-related factors	Elk-like factors
+ETV5_ETV5_HUMAN.H11MO.0.C	ETV5	tryptophan cluster factors	Ets-related factors	Elk-like factors
+EVI1_EVI1_HUMAN.H11MO.0.B	EVI1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	Evi-1-like factors
+EWSR1-FLI1_MA0149.1	EWSR1-FLI1	tryptophan cluster factors	Ets-related factors	Ets-like factors
+FEV_FEV_HUMAN.H11MO.0.B	FEV	tryptophan cluster factors	Ets-related factors	Ets-like factors
+FEZF1_FEZF1_HUMAN.H11MO.0.C	FEZF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	FEZF factors
+FEZF1_M08307_2.00	FEZF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	FEZF factors
+FLI1_FLI1_HUMAN.H11MO.0.A	FLI1	tryptophan cluster factors	Ets-related factors	Ets-like factors
+FLI1_M08111_2.00	FLI1	tryptophan cluster factors	Ets-related factors	Ets-like factors
+FOS_FOS_HUMAN.H11MO.0.A	FOS	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOS_M07826_2.00	FOS	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOS_M07827_2.00	FOS	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOS_M07828_2.00	FOS	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOS_M08069_2.00	FOS	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOS_MA0476.1	FOS	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSB_FOSB_HUMAN.H11MO.0.A	FOSB	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL1_FOSL1_HUMAN.H11MO.0.A	FOSL1	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL1_M07833_2.00	FOSL1	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL1_M08071_2.00	FOSL1	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL1_MA0477.2	FOSL1	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL2_FOSL2_HUMAN.H11MO.0.A	FOSL2	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL2_M07812_2.00	FOSL2	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL2_M08064_2.00	FOSL2	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOSL2_MA0478.1	FOSL2	basic leucine zipper (bZIP) factors	Fos-related factors	Fos factors
+FOXA1_FOXA1_HUMAN.H11MO.0.A	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_M07960_2.00	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_M07961_2.00	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_M07962_2.00	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_M08028_2.00	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_M08117_2.00	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_M08199_2.00	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA1_MA0148.4	FOXA1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA2_FOXA2_HUMAN.H11MO.0.A	FOXA2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA2_M07959_2.00	FOXA2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA2_MA0047.3	FOXA2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA3_FOXA3_HUMAN.H11MO.0.B	FOXA3	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXA3_MA1683.1	FOXA3	forkhead/winged helix factors	forkhead box (FOX) factors	FOXA
+FOXC1_FOXC1_HUMAN.H11MO.0.C	FOXC1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXC
+FOXH1_FOXH1_HUMAN.H11MO.0.A	FOXH1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXH
+FOXH1_M08119_2.00	FOXH1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXH
+FOXH1_MA0479.1	FOXH1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXH
+FOXI1_FOXI1_HUMAN.H11MO.0.B	FOXI1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXI
+FOXJ2_FOXJ2_HUMAN.H11MO.0.C	FOXJ2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXJ
+FOXJ3_FOXJ3_HUMAN.H11MO.0.A	FOXJ3	forkhead/winged helix factors	forkhead box (FOX) factors	FOXJ
+FOXK1_FOXK1_HUMAN.H11MO.0.A	FOXK1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXK
+FOXK1_M08120_2.00	FOXK1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXK
+FOXK1_MA0852.2	FOXK1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXK
+FOXK2_M08118_2.00	FOXK2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXK
+FOXK2_MA1103.2	FOXK2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXK
+FOXM1_FOXM1_HUMAN.H11MO.0.A	FOXM1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXM
+FOXO1_FOXO1_HUMAN.H11MO.0.A	FOXO1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXO
+FOXO3_FOXO3_HUMAN.H11MO.0.B	FOXO3	forkhead/winged helix factors	forkhead box (FOX) factors	FOXO
+FOXO4_FOXO4_HUMAN.H11MO.0.C	FOXO4	forkhead/winged helix factors	forkhead box (FOX) factors	FOXO
+FOXP1_FOXP1_HUMAN.H11MO.0.A	FOXP1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXP
+FOXP1_M08115_2.00	FOXP1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXP
+FOXP1_MA0481.3	FOXP1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXP
+FOXP2_FOXP2_HUMAN.H11MO.0.C	FOXP2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXP
+FOXP2_M08116_2.00	FOXP2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXP
+FOXP2_MA0593.1	FOXP2	forkhead/winged helix factors	forkhead box (FOX) factors	FOXP
+FOXQ1_FOXQ1_HUMAN.H11MO.0.C	FOXQ1	forkhead/winged helix factors	forkhead box (FOX) factors	FOXQ
+GABPA_GABPA_HUMAN.H11MO.0.A	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GABPA_M07952_2.00	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GABPA_M07953_2.00	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GABPA_M07954_2.00	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GABPA_M07955_2.00	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GABPA_M07956_2.00	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GABPA_MA0062.3	GABPA	tryptophan cluster factors	Ets-related factors	Ets-like factors
+GATA1_GATA1_HUMAN.H11MO.0.A	GATA1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA1_M07963_2.00	GATA1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA1_M07964_2.00	GATA1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA1_M08202_2.00	GATA1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA1_M08203_2.00	GATA1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA1_MA0035.4	GATA1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA1TAL1_MA0140.2	GATA1TAL1	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_GATA2_HUMAN.H11MO.0.A	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_M07966_2.00	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_M07967_2.00	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_M07968_2.00	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_M07969_2.00	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_M07970_2.00	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_M08125_2.00	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA2_MA0036.3	GATA2	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA3_GATA3_HUMAN.H11MO.0.A	GATA3	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA3_M07965_2.00	GATA3	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA4_GATA4_HUMAN.H11MO.0.A	GATA4	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA4_MA0482.2	GATA4	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA6_GATA6_HUMAN.H11MO.0.A	GATA6	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA6_M08124_2.00	GATA6	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GATA6_MA1104.2	GATA6	other C4 zinc finger-type factors	GATA-type zinc fingers	two zinc-finger GATA factors
+GCR_GCR_HUMAN.H11MO.0.A	GCR	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	GR-like receptors (NR3C)
+GFI1_GFI1_HUMAN.H11MO.0.C	GFI1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GFI1 factors
+GFI1B_GFI1B_HUMAN.H11MO.0.A	GFI1B	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GFI1 factors
+GLI3_GLI3_HUMAN.H11MO.0.B	GLI3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GLI-like factors
+GLI4_M08394_2.00	GLI4	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+GLIS1_M08345_2.00	GLIS1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GLI-like factors
+GRHL2_GRHL2_HUMAN.H11MO.0.A	GRHL2	Grainyhead domain factors	Grainyhead-related factors	GRH-like proteins
+GRHL2_M08129_2.00	GRHL2	Grainyhead domain factors	Grainyhead-related factors	GRH-like proteins
+GRHL2_MA1105.2	GRHL2	Grainyhead domain factors	Grainyhead-related factors	GRH-like proteins
+GTF3A_M08301_2.00	GTF3A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+HAND2_MA1638.1	HAND2	basic helix-loop-helix (bHLH) factors	Tal-related factors	Twist-like factors
+HEN1_HEN1_HUMAN.H11MO.0.C	HEN1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Tal/HEN-like factors
+HIC1_HIC1_HUMAN.H11MO.0.C	HIC1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	hypermethylated in cancer proteins
+HIF1A_HIF1A_HUMAN.H11MO.0.C	HIF1A	basic helix-loop-helix (bHLH)	PAS domain factors	Ahr-like factors
+HIF1A_M08049_2.00	HIF1A	basic helix-loop-helix (bHLH)	PAS domain factors	Ahr-like factors
+HIF1A_MA1106.1	HIF1A	basic helix-loop-helix (bHLH)	PAS domain factors	Ahr-like factors
+HINFP_HINFP_HUMAN.H11MO.0.C	HINFP	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	HINFP-like factors
+HKR1_M07662_2.00	HKR1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF343-like factors
+HLF_HLF_HUMAN.H11MO.0.C	HLF	basic leucine zipper (bZIP) factors	C/EBP-related	PAR factors
+HLF_MA0043.3	HLF	basic leucine zipper (bZIP) factors	C/EBP-related	PAR factors
+HNF1A_HNF1A_HUMAN.H11MO.0.C	HNF1A	homeo domain factors	POU domain factors	HNF1-like factors
+HNF1B_HNF1B_HUMAN.H11MO.0.A	HNF1B	homeo domain factors	POU domain factors	HNF1-like factors
+HNF4A_HNF4A_HUMAN.H11MO.0.A	HNF4A	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF4A_M08219_2.00	HNF4A	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF4A_M08220_2.00	HNF4A	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF4A_MA0114.4	HNF4A	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF4G_HNF4G_HUMAN.H11MO.0.B	HNF4G	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF4G_M08155_2.00	HNF4G	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF4G_MA0484.2	HNF4G	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	HNF-4 (NR2A)
+HNF6_HNF6_HUMAN.H11MO.0.B	HNF6	homeo domain factors	HD-CUT factors	ONECUT
+HOXB13_MA0901.2	HOXB13	homeo domain factors	HOX-related factors	HOX9-13
+HSF1_HSF1_HUMAN.H11MO.0.A	HSF1	heat shock factors	HSF factors	N/A
+HSF1_M07977_2.00	HSF1	heat shock factors	HSF factors	N/A
+HSF2_HSF2_HUMAN.H11MO.0.A	HSF2	heat shock factors	HSF factors	N/A
+HTF4_HTF4_HUMAN.H11MO.0.A	HTF4	basic helix-loop-helix factors (bHLH)	E2A-related factors	N/A
+HXA1_HXA1_HUMAN.H11MO.0.C	HXA1	homeo domain factors	HOX-related factors	HOX1
+HXA10_HXA10_HUMAN.H11MO.0.C	HXA10	homeo domain factors	HOX-related factors	HOX9-13
+HXA13_HXA13_HUMAN.H11MO.0.C	HXA13	homeo domain factors	HOX-related factors	HOX9-13
+HXA9_HXA9_HUMAN.H11MO.0.B	HXA9	homeo domain factors	HOX-related factors	HOX9-13
+HXB13_HXB13_HUMAN.H11MO.0.A	HXB13	homeo domain factors	HOX-related factors	HOX9-13
+HXB4_HXB4_HUMAN.H11MO.0.B	HXB4	homeo domain factors	HOX-related factors	HOX4
+HXB7_HXB7_HUMAN.H11MO.0.C	HXB7	homeo domain factors	HOX-related factors	HOX6-7
+HXB8_HXB8_HUMAN.H11MO.0.C	HXB8	homeo domain factors	HOX-related factors	HOX8
+HXC9_HXC9_HUMAN.H11MO.0.C	HXC9	homeo domain factors	HOX-related factors	HOX9-13
+IKZF1_IKZF1_HUMAN.H11MO.0.C	IKZF1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	Ikaros
+IKZF1_MA1508.1	IKZF1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	Ikaros
+IKZF3_M08320_2.00	IKZF3	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	Ikaros
+INSM1_INSM1_HUMAN.H11MO.0.C	INSM1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	insulinoma-associated proteins
+IRF1_IRF1_HUMAN.H11MO.0.A	IRF1	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF1_M08142_2.00	IRF1	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF2_IRF2_HUMAN.H11MO.0.A	IRF2	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF3_IRF3_HUMAN.H11MO.0.B	IRF3	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF4_IRF4_HUMAN.H11MO.0.A	IRF4	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF4_M07978_2.00	IRF4	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF7_IRF7_HUMAN.H11MO.0.C	IRF7	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF8_IRF8_HUMAN.H11MO.0.B	IRF8	tryptophan cluster factors	interferon-regulatory factors	N/A
+IRF9_IRF9_HUMAN.H11MO.0.C	IRF9	tryptophan cluster factors	interferon-regulatory factors	N/A
+ISL1_ISL1_HUMAN.H11MO.0.A	ISL1	homeo domain factors	HD-LIM factors	ISL
+ITF2_ITF2_HUMAN.H11MO.0.C	ITF2	basic helix-loop-helix factors (bHLH)	E2A-related factors	N/A
+JUN_JUN_HUMAN.H11MO.0.A	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M07834_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M07835_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M07836_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M07837_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M07838_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M08072_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_M08073_2.00	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUN_MA0488.1	JUN	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUNB_JUNB_HUMAN.H11MO.0.A	JUNB	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUNB_M07829_2.00	JUNB	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUNB_M08070_2.00	JUNB	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUNB_MA0490.2	JUNB	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_JUND_HUMAN.H11MO.0.A	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07814_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07815_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07816_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07817_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07818_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07819_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M07820_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M08067_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_M08068_2.00	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_MA0491.2	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+JUND_MA0492.1	JUND	basic leucine zipper (bZIP) factors	Jun-related factors	Jun factors
+KAISO_KAISO_HUMAN.H11MO.0.A	KAISO	C2H2 zinc finger factors	other factors with up to three adjacent zinc fingers	factors with 2-3 adjacent zinc fingers and a BTB/POZ domain
+KLF1_KLF1_HUMAN.H11MO.0.A	KLF1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF1_M08293_2.00	KLF1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF1_MA0493.2	KLF1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF10_M08246_2.00	KLF10	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF10_M08317_2.00	KLF10	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF10_MA1511.2	KLF10	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF12_KLF12_HUMAN.H11MO.0.C	KLF12	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF12_M08299_2.00	KLF12	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF12_MA0742.2	KLF12	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF14_M08398_2.00	KLF14	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF14_MA0740.2	KLF14	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF15_KLF15_HUMAN.H11MO.0.A	KLF15	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF15_M08323_2.00	KLF15	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF15_MA1513.1	KLF15	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF3_KLF3_HUMAN.H11MO.0.B	KLF3	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF4_KLF4_HUMAN.H11MO.0.A	KLF4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF4_M08091_2.00	KLF4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF4_M08243_2.00	KLF4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF4_MA0039.4	KLF4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF5_KLF5_HUMAN.H11MO.0.A	KLF5	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF5_M08086_2.00	KLF5	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF5_MA0599.1	KLF5	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF6_KLF6_HUMAN.H11MO.0.A	KLF6	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF7_M08298_2.00	KLF7	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF7_MA1959.1	KLF7	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF8_KLF8_HUMAN.H11MO.0.C	KLF8	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF9_KLF9_HUMAN.H11MO.0.C	KLF9	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF9_M08088_2.00	KLF9	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+KLF9_MA1107.2	KLF9	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Krüppel-like factors
+LEF1_LEF1_HUMAN.H11MO.0.A	LEF1	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+LHX2_LHX2_HUMAN.H11MO.0.A	LHX2	homeo domain factors	HD-LIM factors	Lhx-2-like factors
+LHX2_MA0700.2	LHX2	homeo domain factors	HD-LIM factors	Lhx-2-like factors
+LHX3_LHX3_HUMAN.H11MO.0.C	LHX3	homeo domain factors	HD-LIM factors	Lhx-3-like factors
+LYL1_LYL1_HUMAN.H11MO.0.A	LYL1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Tal/HEN-like factors
+MAF_MAF_HUMAN.H11MO.0.A	MAF	basic leucine zipper factors (bZIP)	Maf-related factors	large Maf factors
+MAFNFE2_MA0501.1	MAFNFE2	basic leucine zipper factors (bZIP)	Maf-related factors	large Maf factors
+MAFB_MAFB_HUMAN.H11MO.0.B	MAFB	basic leucine zipper factors (bZIP)	Maf-related factors	large Maf factors
+MAFF_M07839_2.00	MAFF	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFF_M08074_2.00	MAFF	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFF_MA0495.3	MAFF	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFF_MAFF_HUMAN.H11MO.0.B	MAFF	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFG_MAFG_HUMAN.H11MO.0.A	MAFG	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFGNFE2L1_MA0089.2	MAFGNFE2L1	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFK_M07840_2.00	MAFK	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFK_M07841_2.00	MAFK	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFK_M08075_2.00	MAFK	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFK_MA0496.3	MAFK	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAFK_MAFK_HUMAN.H11MO.0.A	MAFK	basic leucine zipper factors (bZIP)	Maf-related factors	small Maf factors
+MAX_M07791_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_M07792_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_M07793_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_M07794_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_M07795_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_M07796_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_M07797_2.00	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAX_MAX_HUMAN.H11MO.0.A	MAX	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MAZ_M08290_2.00	MAZ	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+MAZ_MA1522.1	MAZ	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+MAZ_MAZ_HUMAN.H11MO.0.A	MAZ	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+MBD2_MBD2_HUMAN.H11MO.0.B	MBD2	N/A	N/A	N/A
+MECP2_MECP2_HUMAN.H11MO.0.C	MECP2	N/A	N/A	N/A
+MEF2A_M07979_2.00	MEF2A	MADS box factors	regulators of differentiation	MEF-2
+MEF2A_M08212_2.00	MEF2A	MADS box factors	regulators of differentiation	MEF-2
+MEF2A_M08213_2.00	MEF2A	MADS box factors	regulators of differentiation	MEF-2
+MEF2A_MA0052.4	MEF2A	MADS box factors	regulators of differentiation	MEF-2
+MEF2A_MEF2A_HUMAN.H11MO.0.A	MEF2A	MADS box factors	regulators of differentiation	MEF-2
+MEF2B_MEF2B_HUMAN.H11MO.0.A	MEF2B	MADS box factors	regulators of differentiation	MEF-2
+MEF2C_M07980_2.00	MEF2C	MADS box factors	regulators of differentiation	MEF-2
+MEF2C_M08149_2.00	MEF2C	MADS box factors	regulators of differentiation	MEF-2
+MEF2C_MA0497.1	MEF2C	MADS box factors	regulators of differentiation	MEF-2
+MEF2C_MEF2C_HUMAN.H11MO.0.A	MEF2C	MADS box factors	regulators of differentiation	MEF-2
+MEF2D_MEF2D_HUMAN.H11MO.0.A	MEF2D	MADS box factors	regulators of differentiation	MEF-2
+MEIS1_MA1639.1	MEIS1	homeo domain factors	TALE-type homeo domain factors	MEIS
+MEIS1_MEIS1_HUMAN.H11MO.0.A	MEIS1	homeo domain factors	TALE-type homeo domain factors	MEIS
+MEIS2_MA1640.1	MEIS2	homeo domain factors	TALE-type homeo domain factors	MEIS
+MEIS2_MEIS2_HUMAN.H11MO.0.B	MEIS2	homeo domain factors	TALE-type homeo domain factors	MEIS
+MITF_M08058_2.00	MITF	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	TFE3-like factors
+MITF_MA0620.3	MITF	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	TFE3-like factors
+MITF_MITF_HUMAN.H11MO.0.A	MITF	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	TFE3-like factors
+MTF1_MTF1_HUMAN.H11MO.0.C	MTF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	MTF1-like factors
+MXI1_M07790_2.00	MXI1	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Mad1-like factors
+MXI1_M08051_2.00	MXI1	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Mad1-like factors
+MXI1_M08181_2.00	MXI1	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Mad1-like factors
+MXI1_M08182_2.00	MXI1	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Mad1-like factors
+MXI1_MA1108.2	MXI1	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Mad1-like factors
+MXI1_MXI1_HUMAN.H11MO.0.A	MXI1	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Mad1-like factors
+MYB_M08150_2.00	MYB	tryptophan cluster factors	Myb/SANT domain factors	Myb-like factors
+MYB_MA0100.3	MYB	tryptophan cluster factors	Myb/SANT domain factors	Myb-like factors
+MYB_MYB_HUMAN.H11MO.0.A	MYB	tryptophan cluster factors	Myb/SANT domain factors	Myb-like factors
+MYC_M07799_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_M07800_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_M07801_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_M07802_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_M07803_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_M07804_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_M08054_2.00	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_MA0147.3	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYC_MYC_HUMAN.H11MO.0.A	MYC	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYCN_M08053_2.00	MYCN	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYCN_MA0104.4	MYCN	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYCN_MYCN_HUMAN.H11MO.0.A	MYCN	basic helix-loop-helix factors (bHLH)	bHLH-ZIP factors	Myc/Max factors
+MYF5_MA1641.1	MYF5	basic helix-loop-helix factors (bHLH)	MyoD/ASC-related factors	myogenic transcription factors
+MYF6_MYF6_HUMAN.H11MO.0.C	MYF6	basic helix-loop-helix factors (bHLH)	MyoD/ASC-related factors	myogenic transcription factors
+MYNN_M08283_2.00	MYNN	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+MYOD1_MA0499.2	MYOD1	basic helix-loop-helix factors (bHLH)	MyoD/ASC-related factors	myogenic transcription factors
+MYOD1_MYOD1_HUMAN.H11MO.0.A	MYOD1	basic helix-loop-helix factors (bHLH)	MyoD/ASC-related factors	myogenic transcription factors
+MYOG_MA0500.2	MYOG	basic helix-loop-helix factors (bHLH)	MyoD/ASC-related factors	myogenic transcription factors
+MYOG_MYOG_HUMAN.H11MO.0.B	MYOG	basic helix-loop-helix factors (bHLH)	MyoD/ASC-related factors	myogenic transcription factors
+MZF1_M08236_2.00	MZF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+MZF1_M08286_2.00	MZF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+MZF1_MA0056.2	MZF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+MZF1_MZF1_HUMAN.H11MO.0.B	MZF1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+NANOG_NANOG_HUMAN.H11MO.0.A	NANOG	homeo domain factors	NK-related factors	NANOG
+NDF1_NDF1_HUMAN.H11MO.0.A	NDF1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+NDF2_NDF2_HUMAN.H11MO.0.B	NDF2	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+NEUROD1_M08057_2.00	NEUROD1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+NEUROD1_MA1109.1	NEUROD1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+NEUROG2_MA1642.1	NEUROG2	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+NF2L1_NF2L1_HUMAN.H11MO.0.C	NF2L1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+NF2L2_NF2L2_HUMAN.H11MO.0.A	NF2L2	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+NFAC1_NFAC1_HUMAN.H11MO.0.B	NFAC1	Rel homology region (RHR) factors	NFAT-related factors	N/A
+NFAC2_NFAC2_HUMAN.H11MO.0.B	NFAC2	Rel homology region (RHR) factors	NFAT-related factors	N/A
+NFAC3_NFAC3_HUMAN.H11MO.0.B	NFAC3	Rel homology region (RHR) factors	NFAT-related factors	N/A
+NFAC4_NFAC4_HUMAN.H11MO.0.C	NFAC4	Rel homology region (RHR) factors	NFAT-related factors	N/A
+NFE2_M07813_2.00	NFE2	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+NFE2_NFE2_HUMAN.H11MO.0.A	NFE2	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+NFIA_NFIA_HUMAN.H11MO.0.C	NFIA	SMAD/NF-1 DNA-binding domain factors	nuclear factor 1	N/A
+NFIB_MA1643.1	NFIB	SMAD/NF-1 DNA-binding domain factors	nuclear factor 1	N/A
+NFIC_M08164_2.00	NFIC	SMAD/NF-1 DNA-binding domain factors	nuclear factor 1	N/A
+NFIC_MA0161.2	NFIC	SMAD/NF-1 DNA-binding domain factors	nuclear factor 1	N/A
+NFIC_NFIC_HUMAN.H11MO.0.A	NFIC	SMAD/NF-1 DNA-binding domain factors	nuclear factor 1	N/A
+NFIL3_MA0025.2	NFIL3	basic leucine zipper (bZIP) factors	C/EBP-related	PAR factors
+NFKB1_NFKB1_HUMAN.H11MO.1.B	NFKB1	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p50 subunit-like factors
+NFKB2_NFKB2_HUMAN.H11MO.0.B	NFKB2	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p50 subunit-like factors
+NFYA_M08104_2.00	NFYA	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYA_MA0060.3	NFYA	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYA_NFYA_HUMAN.H11MO.0.A	NFYA	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYB_M08178_2.00	NFYB	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYB_MA0502.2	NFYB	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYB_NFYB_HUMAN.H11MO.0.A	NFYB	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYC_MA1644.1	NFYC	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NFYC_NFYC_HUMAN.H11MO.0.A	NFYC	heteromeric CCAAT-binding factors	heteromeric CCAAT-binding factors	N/A
+NKX2-2_MA1645.1	NKX2-2	homeo domain factors	NK-related factors	NK-2.2
+NKX2-5_MA0063.2	NKX2-5	homeo domain factors	NK-related factors	NK-4
+NKX21_NKX21_HUMAN.H11MO.0.A	NKX21	homeo domain factors	NK-related factors	NK-2.1
+NKX25_NKX25_HUMAN.H11MO.0.B	NKX25	homeo domain factors	NK-related factors	NK-4
+NKX28_NKX28_HUMAN.H11MO.0.C	NKX28	homeo domain factors	NK-related factors	NK-2.2
+NKX31_NKX31_HUMAN.H11MO.0.C	NKX31	homeo domain factors	NK-related factors	NK-3
+NKX32_NKX32_HUMAN.H11MO.0.C	NKX32	homeo domain factors	NK-related factors	NK-3
+NKX61_NKX61_HUMAN.H11MO.0.B	NKX61	homeo domain factors	NK-related factors	NK-6
+NOBOX_NOBOX_HUMAN.H11MO.0.C	NOBOX	homeo domain factors	paired-related HD factors	NOBOX
+NR1D1_NR1D1_HUMAN.H11MO.0.B	NR1D1	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	Rev-ErbA (NR1D)
+NR1H3_NR1H3_HUMAN.H11MO.0.B	NR1H3	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	LXR (NR1H)
+NR1H4_M08152_2.00	NR1H4	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	LXR (NR1H)
+NR1H4_NR1H4_HUMAN.H11MO.0.B	NR1H4	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	LXR (NR1H)
+NR1I2_NR1I2_HUMAN.H11MO.0.C	NR1I2	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	vitamin D receptor (NR1I)
+NR1I3_NR1I3_HUMAN.H11MO.0.C	NR1I3	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	vitamin D receptor (NR1I)
+NR2C1_NR2C1_HUMAN.H11MO.0.C	NR2C1	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_M07990_2.00	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_M07991_2.00	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_M07992_2.00	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_M08156_2.00	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_M08221_2.00	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_M08222_2.00	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_MA0504.1	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2C2_NR2C2_HUMAN.H11MO.0.B	NR2C2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	testicular receptors (NR2C)
+NR2E3_NR2E3_HUMAN.H11MO.0.C	NR2E3	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	tailless-like receptors (NR2E)
+NR2F2_M08157_2.00	NR2F2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	COUP-like receptors (NR2F)
+NR2F2_M08223_2.00	NR2F2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	COUP-like receptors (NR2F)
+NR2F2_M08224_2.00	NR2F2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	COUP-like receptors (NR2F)
+NR2F2_MA1111.1	NR2F2	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	COUP-like receptors (NR2F)
+NR3C1_M07986_2.00	NR3C1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	GR-like receptors (NR3C)
+NR3C1_M07987_2.00	NR3C1	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	GR-like receptors (NR3C)
+NR4A1_M08153_2.00	NR4A1	nuclear receptors with C4 zinc fingers	NGFI-B-related receptors (NR4)	N/A
+NR4A1_MA1112.2	NR4A1	nuclear receptors with C4 zinc fingers	NGFI-B-related receptors (NR4)	N/A
+NR4A1_NR4A1_HUMAN.H11MO.0.A	NR4A1	nuclear receptors with C4 zinc fingers	NGFI-B-related receptors (NR4)	N/A
+NR4A2_NR4A2_HUMAN.H11MO.0.C	NR4A2	nuclear receptors with C4 zinc fingers	NGFI-B-related receptors (NR4)	N/A
+NR5A2_NR5A2_HUMAN.H11MO.0.B	NR5A2	nuclear receptors with C4 zinc fingers	FTZ-F1-related receptors (NR5)	N/A
+NR6A1_NR6A1_HUMAN.H11MO.0.B	NR6A1	nuclear receptors with C4 zinc fingers	GCNF-related receptors (NR6)	N/A
+NRF1_M08177_2.00	NRF1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+NRF1_NRF1_HUMAN.H11MO.0.A	NRF1	basic leucine zipper (bZIP) factors	Jun-related factors	NF-E2-like factors
+OLIG2_OLIG2_HUMAN.H11MO.0.B	OLIG2	basic helix-loop-helix (bHLH) factors	Tal-related factors	Neurogenin/Atonal-like factors
+ONECUT1_MA0679.2	ONECUT1	homeo domain factors	HD-CUT factors	ONECUT
+OSR2_M08324_2.00	OSR2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+OSR2_MA1646.1	OSR2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+OSR2_OSR2_HUMAN.H11MO.0.C	OSR2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+OTX2_MA0712.2	OTX2	homeo domain factors	paired-related HD factors	OTX
+OTX2_OTX2_HUMAN.H11MO.0.A	OTX2	homeo domain factors	paired-related HD factors	OTX
+OVOL1_OVOL1_HUMAN.H11MO.0.C	OVOL1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	OVOL-factors
+OZF_OZF_HUMAN.H11MO.0.C	OZF	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF146-like factors
+P53_P53_HUMAN.H11MO.0.A	P53	p53 domain factors	p53-related factors	N/A
+P63_P63_HUMAN.H11MO.0.A	P63	p53 domain factors	p53-related factors	N/A
+P73_P73_HUMAN.H11MO.0.A	P73	p53 domain factors	p53-related factors	N/A
+PATZ1_M08287_2.00	PATZ1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+PATZ1_MA1961.1	PATZ1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+PATZ1_PATZ1_HUMAN.H11MO.0.C	PATZ1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+PAX5_M07995_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_M07996_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_M07997_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_M07998_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_M08160_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_M08227_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_M08228_2.00	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_MA0014.3	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX5_PAX5_HUMAN.H11MO.0.A	PAX5	paired box factors	paired domain only	PAX-2-like factors (partial homeobox)
+PAX6_PAX6_HUMAN.H11MO.0.C	PAX6	paired box factors	paired plus homeo domain	PAX-4/6
+PBX1_PBX1_HUMAN.H11MO.0.A	PBX1	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX2_M08134_2.00	PBX2	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX2_MA1113.2	PBX2	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX2_PBX2_HUMAN.H11MO.0.C	PBX2	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX3_M07971_2.00	PBX3	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX3_M08132_2.00	PBX3	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX3_MA1114.1	PBX3	homeo domain factors	TALE-type homeo domain factors	PBX
+PBX3_PBX3_HUMAN.H11MO.0.A	PBX3	homeo domain factors	TALE-type homeo domain factors	PBX
+PDX1_PDX1_HUMAN.H11MO.0.A	PDX1	homeo domain factors	HOX-related factors	PDX
+PEBB_PEBB_HUMAN.H11MO.0.C	PEBB	N/A	N/A	N/A
+PHOX2B_MA0681.2	PHOX2B	homeo domain factors	paired-related HD factors	PHOX
+PIT1_PIT1_HUMAN.H11MO.0.C	PIT1	homeo domain factors	POU domain factors	POU1 (Pit1-like factors)
+PKNOX1_MA0782.2	PKNOX1	homeo domain factors	TALE-type homeo domain factors	PKNOX
+PKNX1_PKNX1_HUMAN.H11MO.0.B	PKNX1	homeo domain factors	TALE-type homeo domain factors	PKNOX
+PO2F1_PO2F1_HUMAN.H11MO.0.C	PO2F1	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+PO2F2_PO2F2_HUMAN.H11MO.0.A	PO2F2	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+PO3F1_PO3F1_HUMAN.H11MO.0.C	PO3F1	homeo domain factors	POU domain factors	POU3 (Oct-6-like factors)
+PO3F2_PO3F2_HUMAN.H11MO.0.A	PO3F2	homeo domain factors	POU domain factors	POU3 (Oct-6-like factors)
+PO5F1_PO5F1_HUMAN.H11MO.0.A	PO5F1	homeo domain factors	POU domain factors	POU5 (Oct-3/4-like factors)
+POU2F2_M07972_2.00	POU2F2	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+POU2F2_M07973_2.00	POU2F2	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+POU2F2_M07974_2.00	POU2F2	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+POU2F2_M07975_2.00	POU2F2	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+POU2F2_M08140_2.00	POU2F2	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+POU2F3_MA0627.2	POU2F3	homeo domain factors	POU domain factors	POU2 (Oct-1/2-like factors)
+POU5F1_M07976_2.00	POU5F1	homeo domain factors	POU domain factors	POU5 (Oct-3/4-like factors)
+POU5F1_M08141_2.00	POU5F1	homeo domain factors	POU domain factors	POU5 (Oct-3/4-like factors)
+POU5F1_MA1115.1	POU5F1	homeo domain factors	POU domain factors	POU5 (Oct-3/4-like factors)
+PPARA_PPARA_HUMAN.H11MO.0.B	PPARA	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	PPAR (NR1C)
+PPARG_PPARG_HUMAN.H11MO.0.A	PPARG	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	PPAR (NR1C)
+PRD14_PRD14_HUMAN.H11MO.0.A	PRD14	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+PRDM1_M07845_2.00	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM1_M08083_2.00	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM1_M08191_2.00	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM1_M08192_2.00	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM1_M08276_2.00	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM1_MA0508.3	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM1_PRDM1_HUMAN.H11MO.0.A	PRDM1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	PRDM1-like factors
+PRDM6_M08277_2.00	PRDM6	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+PRDM6_PRDM6_HUMAN.H11MO.0.C	PRDM6	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+PRDM9_M07610_2.00	PRDM9	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+PRDM9_MA1723.1	PRDM9	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+PRGR_PRGR_HUMAN.H11MO.0.A	PRGR	nuclear receptors with C4 zinc fingers	steroid hormone receptors (NR3)	GR-like receptors (NR3C)
+PRRX2_PRRX2_HUMAN.H11MO.0.C	PRRX2	homeo domain factors	paired-related HD factors	PRRX
+PTF1A_PTF1A_HUMAN.H11MO.0.B	PTF1A	basic helix-loop-helix (bHLH) factors	Tal-related factors	Twist-like factors
+RARA_RARA_HUMAN.H11MO.0.A	RARA	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	retinoic acid receptors (NR1B)
+RARG_RARG_HUMAN.H11MO.0.B	RARG	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	retinoic acid receptors (NR1B)
+RBAK_M07595_2.00	RBAK	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF12-like factors
+RBPJ_M08105_2.00	RBPJ	Rel homology region (RHR) factors	CSL-related factors	M
+RBPJ_MA1116.1	RBPJ	Rel homology region (RHR) factors	CSL-related factors	M
+REL_REL_HUMAN.H11MO.0.B	REL	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M07999_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08000_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08001_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08002_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08003_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08004_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08005_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08006_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08007_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELA_M08008_2.00	RELA	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELB_M08161_2.00	RELB	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELB_MA1117.1	RELB	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+RELB_RELB_HUMAN.H11MO.0.C	RELB	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+REST_M07846_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07847_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07848_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07849_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07850_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07851_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07852_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07853_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M07854_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_M08084_2.00	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_MA0138.2	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+REST_REST_HUMAN.H11MO.0.A	REST	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+RFX1_MA0509.3	RFX1	forkhead/winged helix factors	RFX-related factors	N/A
+RFX1_RFX1_HUMAN.H11MO.0.B	RFX1	forkhead/winged helix factors	RFX-related factors	N/A
+RFX2_RFX2_HUMAN.H11MO.0.A	RFX2	forkhead/winged helix factors	RFX-related factors	N/A
+RFX3_RFX3_HUMAN.H11MO.0.B	RFX3	forkhead/winged helix factors	RFX-related factors	N/A
+RFX5_M08009_2.00	RFX5	forkhead/winged helix factors	RFX-related factors	N/A
+RFX5_M08010_2.00	RFX5	forkhead/winged helix factors	RFX-related factors	N/A
+RFX5_M08011_2.00	RFX5	forkhead/winged helix factors	RFX-related factors	N/A
+RFX5_M08012_2.00	RFX5	forkhead/winged helix factors	RFX-related factors	N/A
+RFX5_RFX5_HUMAN.H11MO.0.A	RFX5	forkhead/winged helix factors	RFX-related factors	N/A
+RORA_RORA_HUMAN.H11MO.0.C	RORA	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	ROR (NR1F)
+RORG_RORG_HUMAN.H11MO.0.C	RORG	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	ROR (NR1F)
+RUNX1_RUNX1_HUMAN.H11MO.0.A	RUNX1	Runt domain factors	Runt-related factors	N/A
+RUNX2_RUNX2_HUMAN.H11MO.0.A	RUNX2	Runt domain factors	Runt-related factors	N/A
+RUNX3_MA0684.2	RUNX3	Runt domain factors	Runt-related factors	N/A
+RUNX3_RUNX3_HUMAN.H11MO.0.A	RUNX3	Runt domain factors	Runt-related factors	N/A
+RXRA_M07993_2.00	RXRA	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	retinoid X receptors (NR2B)
+RXRA_M07994_2.00	RXRA	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	retinoid X receptors (NR2B)
+RXRA_RXRA_HUMAN.H11MO.0.A	RXRA	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	retinoid X receptors (NR2B)
+RXRB_RXRB_HUMAN.H11MO.0.C	RXRB	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	retinoid X receptors (NR2B)
+RXRG_RXRG_HUMAN.H11MO.0.B	RXRG	nuclear receptors with C4 zinc fingers	RXR-related receptors (NR2)	retinoid X receptors (NR2B)
+SALL4_SALL4_HUMAN.H11MO.0.B	SALL4	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	Sal-like factors
+SCRT1_M08397_2.00	SCRT1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SCRT1_MA0743.2	SCRT1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SCRT2_MA0744.2	SCRT2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SIX1_M08130_2.00	SIX1	homeo domain factors	HD-SINE factors	SIX1-like factors
+SIX1_MA1118.1	SIX1	homeo domain factors	HD-SINE factors	SIX1-like factors
+SIX1_SIX1_HUMAN.H11MO.0.A	SIX1	homeo domain factors	HD-SINE factors	SIX1-like factors
+SIX2_M08133_2.00	SIX2	homeo domain factors	HD-SINE factors	SIX1-like factors
+SIX2_MA1119.1	SIX2	homeo domain factors	HD-SINE factors	SIX1-like factors
+SIX2_SIX2_HUMAN.H11MO.0.A	SIX2	homeo domain factors	HD-SINE factors	SIX1-like factors
+SIX5_M08208_2.00	SIX5	homeo domain factors	HD-SINE factors	SIX4-like factors
+SIX5_M08209_2.00	SIX5	homeo domain factors	HD-SINE factors	SIX4-like factors
+SMAD2_SMAD2_HUMAN.H11MO.0.A	SMAD2	SMAD/NF-1 DNA-binding domain factors	SMAD factors	regulatory Smads (R-Smad)
+SMAD3_SMAD3_HUMAN.H11MO.0.B	SMAD3	SMAD/NF-1 DNA-binding domain factors	SMAD factors	regulatory Smads (R-Smad)
+SMAD4_SMAD4_HUMAN.H11MO.0.B	SMAD4	SMAD/NF-1 DNA-binding domain factors	SMAD factors	co-activating Smads (Co-Smad)
+SMCA1_SMCA1_HUMAN.H11MO.0.C	SMCA1	tryptophan cluster factors	Myb/SANT domain factors	SMARCA-like factors
+SMCA5_SMCA5_HUMAN.H11MO.0.C	SMCA5	tryptophan cluster factors	Myb/SANT domain factors	SMARCA-like factors
+SNAI1_M08303_2.00	SNAI1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SNAI1_SNAI1_HUMAN.H11MO.0.C	SNAI1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SNAI2_MA0745.2	SNAI2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SNAI2_SNAI2_HUMAN.H11MO.0.A	SNAI2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	Snail-like factors
+SOX10_M08165_2.00	SOX10	high-mobility group (HMG) domain factors	SOX-related factors	group E
+SOX10_MA0442.2	SOX10	high-mobility group (HMG) domain factors	SOX-related factors	group E
+SOX10_SOX10_HUMAN.H11MO.0.B	SOX10	high-mobility group (HMG) domain factors	SOX-related factors	group E
+SOX13_M08166_2.00	SOX13	high-mobility group (HMG) domain factors	SOX-related factors	group D
+SOX13_MA1120.1	SOX13	high-mobility group (HMG) domain factors	SOX-related factors	group D
+SOX17_SOX17_HUMAN.H11MO.0.C	SOX17	high-mobility group (HMG) domain factors	SOX-related factors	group F
+SOX2_MA0143.4	SOX2	high-mobility group (HMG) domain factors	SOX-related factors	group B
+SOX2_SOX2_HUMAN.H11MO.0.A	SOX2	high-mobility group (HMG) domain factors	SOX-related factors	group B
+SOX3_SOX3_HUMAN.H11MO.0.B	SOX3	high-mobility group (HMG) domain factors	SOX-related factors	group B
+SOX4_SOX4_HUMAN.H11MO.0.B	SOX4	high-mobility group (HMG) domain factors	SOX-related factors	group C
+SOX5_SOX5_HUMAN.H11MO.0.C	SOX5	high-mobility group (HMG) domain factors	SOX-related factors	group D
+SOX9_SOX9_HUMAN.H11MO.0.B	SOX9	high-mobility group (HMG) domain factors	SOX-related factors	group E
+SP1_M08096_2.00	SP1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP1_M08363_2.00	SP1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP1_MA0079.5	SP1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP1_SP1_HUMAN.H11MO.0.A	SP1	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP2_M07932_2.00	SP2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP2_M08092_2.00	SP2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP2_M08326_2.00	SP2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP2_MA0516.3	SP2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP2_SP2_HUMAN.H11MO.0.A	SP2	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP3_SP3_HUMAN.H11MO.0.B	SP3	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP4_M08296_2.00	SP4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP4_MA0685.2	SP4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SP4_SP4_HUMAN.H11MO.0.A	SP4	C2H2 zinc finger factors	three-zinc finger Krüppel-related factors	Sp1-like factors
+SPI1_M07944_2.00	SPI1	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SPI1_M07945_2.00	SPI1	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SPI1_M07946_2.00	SPI1	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SPI1_M08026_2.00	SPI1	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SPI1_SPI1_HUMAN.H11MO.0.A	SPI1	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SPIB_MA0081.2	SPIB	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SPIB_SPIB_HUMAN.H11MO.0.A	SPIB	tryptophan cluster factors	Ets-related factors	Spi-like factors
+SRBP1_SRBP1_HUMAN.H11MO.0.A	SRBP1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SRBP2_SRBP2_HUMAN.H11MO.0.B	SRBP2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SREBF1_M08048_2.00	SREBF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SREBF1_MA0595.1	SREBF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SREBF1_MA0829.2	SREBF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SREBF2_M08059_2.00	SREBF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SREBF2_MA0596.1	SREBF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	SREBP factors
+SRF_M07981_2.00	SRF	MADS box factors	responders to external signals (SRF/RLM1)	N/A
+SRF_M07982_2.00	SRF	MADS box factors	responders to external signals (SRF/RLM1)	N/A
+SRF_M07983_2.00	SRF	MADS box factors	responders to external signals (SRF/RLM1)	N/A
+SRF_M07984_2.00	SRF	MADS box factors	responders to external signals (SRF/RLM1)	N/A
+SRF_SRF_HUMAN.H11MO.0.A	SRF	MADS box factors	responders to external signals (SRF/RLM1)	N/A
+SRY_SRY_HUMAN.H11MO.0.B	SRY	high-mobility group (HMG) domain factors	SOX-related factors	group A
+STA5A_STA5A_HUMAN.H11MO.0.A	STA5A	STAT domain factors	STAT factors	N/A
+STA5B_STA5B_HUMAN.H11MO.0.A	STA5B	STAT domain factors	STAT factors	N/A
+STAT1_M08013_2.00	STAT1	STAT domain factors	STAT factors	N/A
+STAT1_M08014_2.00	STAT1	STAT domain factors	STAT factors	N/A
+STAT1_M08171_2.00	STAT1	STAT domain factors	STAT factors	N/A
+STAT1_M08229_2.00	STAT1	STAT domain factors	STAT factors	N/A
+STAT1_M08230_2.00	STAT1	STAT domain factors	STAT factors	N/A
+STAT1_MA0137.3	STAT1	STAT domain factors	STAT factors	N/A
+STAT1_STAT1_HUMAN.H11MO.0.A	STAT1	STAT domain factors	STAT factors	N/A
+STAT1STAT2_MA0517.1	STAT1STAT2	STAT domain factors	STAT factors	N/A
+STAT2_M08019_2.00	STAT2	STAT domain factors	STAT factors	N/A
+STAT2_STAT2_HUMAN.H11MO.0.A	STAT2	STAT domain factors	STAT factors	N/A
+STAT3_M08015_2.00	STAT3	STAT domain factors	STAT factors	N/A
+STAT3_M08016_2.00	STAT3	STAT domain factors	STAT factors	N/A
+STAT3_M08017_2.00	STAT3	STAT domain factors	STAT factors	N/A
+STAT3_M08018_2.00	STAT3	STAT domain factors	STAT factors	N/A
+STAT3_M08172_2.00	STAT3	STAT domain factors	STAT factors	N/A
+STAT3_MA0144.2	STAT3	STAT domain factors	STAT factors	N/A
+STAT3_STAT3_HUMAN.H11MO.0.A	STAT3	STAT domain factors	STAT factors	N/A
+STAT4_STAT4_HUMAN.H11MO.0.A	STAT4	STAT domain factors	STAT factors	N/A
+STAT6_STAT6_HUMAN.H11MO.0.B	STAT6	STAT domain factors	STAT factors	N/A
+STF1_STF1_HUMAN.H11MO.0.B	STF1	nuclear receptors with C4 zinc fingers	FTZ-F1-related receptors (NR5)	N/A
+SUH_SUH_HUMAN.H11MO.0.A	SUH	Rel homology region (RHR) factors	CSL-related factors	M
+TAF1_TAF1_HUMAN.H11MO.0.A	TAF1	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TAL1_TAL1_HUMAN.H11MO.0.A	TAL1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Tal/HEN-like factors
+TBP_M08231_2.00	TBP	TATA-binding proteins	TBP-related factors	N/A
+TBP_TBP_HUMAN.H11MO.0.A	TBP	TATA-binding proteins	TBP-related factors	N/A
+TBX21_TBX21_HUMAN.H11MO.0.A	TBX21	T-Box factors	TBrain-related factors	N/A
+TBX3_TBX3_HUMAN.H11MO.0.C	TBX3	T-Box factors	TBX2-related factors	N/A
+TCF12_M07805_2.00	TCF12	basic helix-loop-helix (bHLH) factors	E2A-related factors	N/A
+TCF12_M07806_2.00	TCF12	basic helix-loop-helix (bHLH) factors	E2A-related factors	N/A
+TCF12_MA1648.1	TCF12	basic helix-loop-helix (bHLH) factors	E2A-related factors	N/A
+TCF3_MA0522.3	TCF3	basic helix-loop-helix (bHLH) factors	E2A-related factors	N/A
+TCF4_MA0830.2	TCF4	basic helix-loop-helix (bHLH) factors	E2A-related factors	N/A
+TCF7_MA0769.2	TCF7	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TCF7_TCF7_HUMAN.H11MO.0.A	TCF7	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TCF7L2_M08167_2.00	TCF7L2	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TCF7L2_MA0523.1	TCF7L2	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TEAD1_MA0090.3	TEAD1	TEA domain factors	TEF-1-related factors	N/A
+TEAD1_TEAD1_HUMAN.H11MO.0.A	TEAD1	TEA domain factors	TEF-1-related factors	N/A
+TEAD2_M08175_2.00	TEAD2	TEA domain factors	TEF-1-related factors	N/A
+TEAD2_MA1121.1	TEAD2	TEA domain factors	TEF-1-related factors	N/A
+TEAD4_MA0809.2	TEAD4	TEA domain factors	TEF-1-related factors	N/A
+TEAD4_TEAD4_HUMAN.H11MO.0.A	TEAD4	TEA domain factors	TEF-1-related factors	N/A
+TF65_TF65_HUMAN.H11MO.0.A	TF65	Rel homology region (RHR) factors	NF-kappaB-related factors	NF-kappaB p65 subunit-like factors
+TF7L1_TF7L1_HUMAN.H11MO.0.B	TF7L1	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TF7L2_TF7L2_HUMAN.H11MO.0.A	TF7L2	high-mobility group (HMG) domain factors	TCF-7-related factors	N/A
+TFAP2A_M07784_2.00	TFAP2A	basic helix-span-helix factors (bHSH)	AP-2	N/A
+TFAP2A_MA0003.4	TFAP2A	basic helix-span-helix factors (bHSH)	AP-2	N/A
+TFAP2C_M07783_2.00	TFAP2C	basic helix-span-helix factors (bHSH)	AP-2	N/A
+TFAP2C_MA0814.2	TFAP2C	basic helix-span-helix factors (bHSH)	AP-2	N/A
+TFAP4_TFAP4_HUMAN.H11MO.0.A	TFAP4	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	AP-4
+TFDP1_M08108_2.00	TFDP1	forkhead/winged helix factors	E2F-related factors	Dp-1
+TFDP1_MA1122.1	TFDP1	forkhead/winged helix factors	E2F-related factors	Dp-1
+TFDP1_TFDP1_HUMAN.H11MO.0.C	TFDP1	forkhead/winged helix factors	E2F-related factors	Dp-1
+TFE2_TFE2_HUMAN.H11MO.0.A	TFE2	basic helix-loop-helix factors (bHLH)	E2A-related factors	N/A
+TFE3_TFE3_HUMAN.H11MO.0.B	TFE3	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	TFE3-like factors
+TFEB_TFEB_HUMAN.H11MO.0.C	TFEB	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	TFE3-like factors
+TGIF1_TGIF1_HUMAN.H11MO.0.A	TGIF1	homeo domain factors	TALE-type homeo domain factors	TGIF
+THA_THA_HUMAN.H11MO.0.C	THA	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	thyroid hormone receptors (NR1A)
+THA11_THA11_HUMAN.H11MO.0.B	THA11	C2CH THAP-type zinc finger factors	THAP-related factors	N/A
+THAP1_M08020_2.00	THAP1	C2CH THAP-type zinc finger factors	THAP-related factors	N/A
+THAP1_M08176_2.00	THAP1	C2CH THAP-type zinc finger factors	THAP-related factors	N/A
+THAP1_THAP1_HUMAN.H11MO.0.C	THAP1	C2CH THAP-type zinc finger factors	THAP-related factors	N/A
+THB_THB_HUMAN.H11MO.0.C	THB	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	thyroid hormone receptors (NR1A)
+TP73_M08035_2.00	TP73	p53 domain factors	p53-related factors	N/A
+TP73_M08036_2.00	TP73	p53 domain factors	p53-related factors	N/A
+TP73_M08037_2.00	TP73	p53 domain factors	p53-related factors	N/A
+TWIST1_M08052_2.00	TWIST1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Twist-like factors
+TWIST1_MA1123.2	TWIST1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Twist-like factors
+TWST1_TWST1_HUMAN.H11MO.0.A	TWST1	basic helix-loop-helix (bHLH) factors	Tal-related factors	Twist-like factors
+TYY1_TYY1_HUMAN.H11MO.0.A	TYY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+USF1_M07807_2.00	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_M07808_2.00	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_M07809_2.00	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_M07810_2.00	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_M07811_2.00	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_M08056_2.00	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_MA0093.3	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF1_USF1_HUMAN.H11MO.0.A	USF1	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_M07785_2.00	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_M07786_2.00	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_M07787_2.00	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_M07788_2.00	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_M07789_2.00	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_M08050_2.00	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+USF2_USF2_HUMAN.H11MO.0.A	USF2	basic helix-loop-helix (bHLH)	bHLH-ZIP factors	USF factors
+VDR_VDR_HUMAN.H11MO.0.A	VDR	nuclear receptors with C4 zinc fingers	thyroid hormone receptor-related factors (NR1)	vitamin D receptor (NR1I)
+VEZF1_VEZF1_HUMAN.H11MO.0.C	VEZF1	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	MAZ-like factors
+WT1_WT1_HUMAN.H11MO.0.C	WT1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+YY1_M07855_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M07856_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M07857_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M07858_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M07859_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M07860_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M07861_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M08085_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M08237_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY1_M08288_2.00	YY1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+YY2_MA0748.2	YY2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+Z324A_Z324A_HUMAN.H11MO.0.C	Z324A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF324 factors
+Z354A_Z354A_HUMAN.H11MO.0.C	Z354A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF354A-like factors
+ZBT14_ZBT14_HUMAN.H11MO.0.C	ZBT14	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZBT17_ZBT17_HUMAN.H11MO.0.A	ZBT17	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZBT18_ZBT18_HUMAN.H11MO.0.C	ZBT18	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF238-like factors
+ZBT48_ZBT48_HUMAN.H11MO.0.C	ZBT48	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZBT7A_ZBT7A_HUMAN.H11MO.0.A	ZBT7A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB7 factors
+ZBTB12_M08269_2.00	ZBTB12	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB12_M08389_2.00	ZBTB12	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB12_MA1649.1	ZBTB12	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB14_M08387_2.00	ZBTB14	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZBTB14_MA1650.1	ZBTB14	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZBTB18_M08257_2.00	ZBTB18	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF238-like factors
+ZBTB18_M08350_2.00	ZBTB18	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF238-like factors
+ZBTB26_M08340_2.00	ZBTB26	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB26_MA1579.1	ZBTB26	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB33_M08094_2.00	ZBTB33	C2H2 zinc finger factors	other factors with up to three adjacent zinc fingers	factors with 2-3 adjacent zinc fingers and a BTB/POZ domain
+ZBTB33_MA0527.1	ZBTB33	C2H2 zinc finger factors	other factors with up to three adjacent zinc fingers	factors with 2-3 adjacent zinc fingers and a BTB/POZ domain
+ZBTB42_M08351_2.00	ZBTB42	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF238-like factors
+ZBTB48_M08391_2.00	ZBTB48	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZBTB6_M08364_2.00	ZBTB6	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB6_MA1581.1	ZBTB6	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB6_ZBTB6_HUMAN.H11MO.0.C	ZBTB6	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB6-like factors
+ZBTB7A_M07937_2.00	ZBTB7A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB7 factors
+ZBTB7A_M08095_2.00	ZBTB7A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB7 factors
+ZBTB7A_MA0750.2	ZBTB7A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZBTB7 factors
+ZEB1_M07842_2.00	ZEB1	homeo domain factors	HD-ZF factors	ZEB
+ZEB1_M08080_2.00	ZEB1	homeo domain factors	HD-ZF factors	ZEB
+ZEB1_M08190_2.00	ZEB1	homeo domain factors	HD-ZF factors	ZEB
+ZEB1_MA0103.3	ZEB1	homeo domain factors	HD-ZF factors	ZEB
+ZEB1_ZEB1_HUMAN.H11MO.0.A	ZEB1	homeo domain factors	HD-ZF factors	ZEB
+ZFP1_M07670_2.00	ZFP1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFP14_M07592_2.00	ZFP14	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP30-like factors
+ZFP14_MA1972.1	ZFP14	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP30-like factors
+ZFP28_M08378_2.00	ZFP28	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFP28_ZFP28_HUMAN.H11MO.0.C	ZFP28	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFP3_M08258_2.00	ZFP3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFP3_M08355_2.00	ZFP3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFP42_M08348_2.00	ZFP42	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+ZFP42_MA1651.1	ZFP42	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+ZFP42_ZFP42_HUMAN.H11MO.0.A	ZFP42	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	YY1-like factors
+ZFP57_M07756_2.00	ZFP57	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZFP57_MA1583.1	ZFP57	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZFP64_M08275_2.00	ZFP64	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFP69_M07686_2.00	ZFP69	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF642-like factors
+ZFP69B_M07685_2.00	ZFP69B	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF642-like factors
+ZFP82_M08356_2.00	ZFP82	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP30-like factors
+ZFP82_ZFP82_HUMAN.H11MO.0.C	ZFP82	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP30-like factors
+ZFP90_M07672_2.00	ZFP90	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZFX_ZFX_HUMAN.H11MO.0.A	ZFX	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFX/ZFY factors
+ZIC1_ZIC1_HUMAN.H11MO.0.B	ZIC1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GLI-like factors
+ZIC2_M08233_2.00	ZIC2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GLI-like factors
+ZIC3_ZIC3_HUMAN.H11MO.0.B	ZIC3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	GLI-like factors
+ZIK1_M07633_2.00	ZIK1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF32-like factors
+ZIM2_M07779_2.00	ZIM2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZIM3_M07591_2.00	ZIM3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZIM3_M08312_2.00	ZIM3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZIM3_MA1709.1	ZIM3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZIM3_ZIM3_HUMAN.H11MO.0.C	ZIM3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZKSC1_ZKSC1_HUMAN.H11MO.0.B	ZKSC1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZKSCAN1_MA1585.1	ZKSCAN1	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZKSCAN2_M07562_2.00	ZKSCAN2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF500-like factors
+ZKSCAN3_M07696_2.00	ZKSCAN3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZKSCAN3-like factors
+ZKSCAN5_M07709_2.00	ZKSCAN5	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZKSCAN5_MA1652.1	ZKSCAN5	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZN121_ZN121_HUMAN.H11MO.0.C	ZN121	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN134_ZN134_HUMAN.H11MO.0.C	ZN134	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers ZNF134-like factors	N/A
+ZN136_ZN136_HUMAN.H11MO.0.C	ZN136	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZN140_ZN140_HUMAN.H11MO.0.C	ZN140	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF302-like factors
+ZN143_ZN143_HUMAN.H11MO.0.A	ZN143	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF76-like factors
+ZN214_ZN214_HUMAN.H11MO.0.C	ZN214	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF214-like factors
+ZN250_ZN250_HUMAN.H11MO.0.C	ZN250	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN257_ZN257_HUMAN.H11MO.0.C	ZN257	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN260_ZN260_HUMAN.H11MO.0.C	ZN260	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF146-like factors
+ZN263_ZN263_HUMAN.H11MO.0.A	ZN263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN264_ZN264_HUMAN.H11MO.0.C	ZN264	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZN274_ZN274_HUMAN.H11MO.0.A	ZN274	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN281_ZN281_HUMAN.H11MO.0.A	ZN281	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF148-like factors
+ZN317_ZN317_HUMAN.H11MO.0.C	ZN317	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN320_ZN320_HUMAN.H11MO.0.C	ZN320	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN322_ZN322_HUMAN.H11MO.0.B	ZN322	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF322-like factors
+ZN329_ZN329_HUMAN.H11MO.0.C	ZN329	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN331_ZN331_HUMAN.H11MO.0.C	ZN331	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN335_ZN335_HUMAN.H11MO.0.A	ZN335	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZN341_ZN341_HUMAN.H11MO.0.C	ZN341	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZN350_ZN350_HUMAN.H11MO.0.C	ZN350	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF350-like factors
+ZN382_ZN382_HUMAN.H11MO.0.C	ZN382	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZN384_ZN384_HUMAN.H11MO.0.C	ZN384	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF362-like factors
+ZN394_ZN394_HUMAN.H11MO.0.C	ZN394	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN418_ZN418_HUMAN.H11MO.0.C	ZN418	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZN436_ZN436_HUMAN.H11MO.0.C	ZN436	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF180-like factors
+ZN449_ZN449_HUMAN.H11MO.0.C	ZN449	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN467_ZN467_HUMAN.H11MO.0.C	ZN467	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZN490_ZN490_HUMAN.H11MO.0.C	ZN490	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZN502_ZN502_HUMAN.H11MO.0.C	ZN502	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN528_ZN528_HUMAN.H11MO.0.C	ZN528	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN547_ZN547_HUMAN.H11MO.0.C	ZN547	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN549_ZN549_HUMAN.H11MO.0.C	ZN549	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN554_ZN554_HUMAN.H11MO.0.C	ZN554	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN563_ZN563_HUMAN.H11MO.0.C	ZN563	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZN582_ZN582_HUMAN.H11MO.0.C	ZN582	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN586_ZN586_HUMAN.H11MO.0.C	ZN586	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN667_ZN667_HUMAN.H11MO.0.C	ZN667	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN680_ZN680_HUMAN.H11MO.0.C	ZN680	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN708_ZN708_HUMAN.H11MO.0.C	ZN708	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZN768_ZN768_HUMAN.H11MO.0.C	ZN768	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZN770_ZN770_HUMAN.H11MO.0.C	ZN770	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZN816_ZN816_HUMAN.H11MO.0.C	ZN816	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF816A-like factors
+ZNF10_M07774_2.00	ZNF10	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF100_M07715_2.00	ZNF100	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF101_M07663_2.00	ZNF101	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF114_M07650_2.00	ZNF114	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF12_M07611_2.00	ZNF12	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF12-like factors
+ZNF121_M08384_2.00	ZNF121	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF124_M07702_2.00	ZNF124	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF132_M07588_2.00	ZNF132	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF133_M07580_2.00	ZNF133	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF343-like factors
+ZNF134_M08392_2.00	ZNF134	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF134-like factors
+ZNF135_M07647_2.00	ZNF135	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF135_MA1587.1	ZNF135	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF136_M07708_2.00	ZNF136	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF136_M08265_2.00	ZNF136	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF136_M08374_2.00	ZNF136	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF136_MA1588.1	ZNF136	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF140_M08372_2.00	ZNF140	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF302-like factors
+ZNF140_MA1589.1	ZNF140	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF302-like factors
+ZNF141_M07586_2.00	ZNF141	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF143_M07931_2.00	ZNF143	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF76-like factors
+ZNF146_M08329_2.00	ZNF146	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF146-like factors
+ZNF148_MA1653.1	ZNF148	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF148-like factors
+ZNF154_M07656_2.00	ZNF154	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF157_M07596_2.00	ZNF157	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF16_M08251_2.00	ZNF16	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF16_M08336_2.00	ZNF16	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF16_MA1654.1	ZNF16	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF169_M07645_2.00	ZNF169	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF343-like factors
+ZNF17_M07681_2.00	ZNF17	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF175_M08292_2.00	ZNF175	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN81-like factors
+ZNF18_M07602_2.00	ZNF18	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF18_M08316_2.00	ZNF18	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF18_ZNF18_HUMAN.H11MO.0.C	ZNF18	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF180_M07614_2.00	ZNF180	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF180-like factors
+ZNF181_M07730_2.00	ZNF181	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZZNF302-like factors
+ZNF182_M07597_2.00	ZNF182	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF184_M07571_2.00	ZNF184	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF184_M08285_2.00	ZNF184	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF189_M07589_2.00	ZNF189	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF189_M08244_2.00	ZNF189	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF189_M08311_2.00	ZNF189	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF189_MA1725.1	ZNF189	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF19_M07603_2.00	ZNF19	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF197_M07684_2.00	ZNF197	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF2_M07780_2.00	ZNF2	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF302-like factors
+ZNF200_M08232_2.00	ZNF200	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF200_M08273_2.00	ZNF200	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF202_M07612_2.00	ZNF202	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF205_M07578_2.00	ZNF205	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF211_M07577_2.00	ZNF211	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF212_M07625_2.00	ZNF212	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF212-like factors
+ZNF213_M08284_2.00	ZNF213	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF75-like zinc finger factors
+ZNF214_M07599_2.00	ZNF214	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF214-like factors
+ZNF214_M08314_2.00	ZNF214	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF214-like factors
+ZNF214_MA1975.1	ZNF214	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF214-like factors
+ZNF22_M08325_2.00	ZNF22	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF222_M07604_2.00	ZNF222	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF223_M07654_2.00	ZNF223	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF224_M07778_2.00	ZNF224	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF224_M08399_2.00	ZNF224	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF225_M07776_2.00	ZNF225	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF235_M07605_2.00	ZNF235	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF24_M08093_2.00	ZNF24	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZNF24_MA1124.1	ZNF24	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZNF248_M07739_2.00	ZNF248	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF25_M07643_2.00	ZNF25	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF250_M08264_2.00	ZNF250	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF250_M08370_2.00	ZNF250	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF254_M07760_2.00	ZNF254	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF257_M07719_2.00	ZNF257	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF257_M08379_2.00	ZNF257	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF257_MA1710.1	ZNF257	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF26_M07743_2.00	ZNF26	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN26-like factors
+ZNF260_M08395_2.00	ZNF260	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF146-like factors
+ZNF263_M07563_2.00	ZNF263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF263_M07843_2.00	ZNF263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF263_M07844_2.00	ZNF263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF263_M08082_2.00	ZNF263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF263_M08272_2.00	ZNF263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF263_MA0528.2	ZNF263	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF264_M07568_2.00	ZNF264	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF264_M08235_2.00	ZNF264	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF264_M08282_2.00	ZNF264	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF266_M07641_2.00	ZNF266	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF267_M07676_2.00	ZNF267	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF273_M07735_2.00	ZNF273	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF273_M08268_2.00	ZNF273	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF273_M08385_2.00	ZNF273	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF274_M07632_2.00	ZNF274	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF274_M07933_2.00	ZNF274	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF274_M07934_2.00	ZNF274	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF274_M07935_2.00	ZNF274	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF274_M07936_2.00	ZNF274	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF28_M07748_2.00	ZNF28	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF816A-like factors
+ZNF280A_M08332_2.00	ZNF280A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF280-like zinc finger factors
+ZNF281_M08321_2.00	ZNF281	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF148-like factors
+ZNF281_MA1630.2	ZNF281	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF148-like factors
+ZNF282_M07626_2.00	ZNF282	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF282-like factors
+ZNF283_M07619_2.00	ZNF283	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF284_M07679_2.00	ZNF284	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF285_M07777_2.00	ZNF285	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF214-like factors
+ZNF287_M07590_2.00	ZNF287	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF3_M07613_2.00	ZNF3	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF3-like factors
+ZNF30_M07621_2.00	ZNF30	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF30_M08330_2.00	ZNF30	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF300_M07594_2.00	ZNF300	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN300-like factors
+ZNF302_M07570_2.00	ZNF302	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF302-like factors
+ZNF304_M07587_2.00	ZNF304	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF311_M07734_2.00	ZNF311	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF317_M07584_2.00	ZNF317	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF317_M08242_2.00	ZNF317	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF317_M08308_2.00	ZNF317	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF317_MA1593.1	ZNF317	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF320_M07667_2.00	ZNF320	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF320_M08362_2.00	ZNF320	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF320_MA1976.1	ZNF320	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF322_M08259_2.00	ZNF322	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF322-like factors
+ZNF322_M08357_2.00	ZNF322	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF322-like factors
+ZNF324_M07566_2.00	ZNF324	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF324 factors
+ZNF324_M08280_2.00	ZNF324	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF324 factors
+ZNF324_MA1977.1	ZNF324	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF324 factors
+ZNF324B_M07769_2.00	ZNF324B	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF324 factors
+ZNF329_M08359_2.00	ZNF329	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF331_M07585_2.00	ZNF331	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF331_M08309_2.00	ZNF331	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF331_MA1726.1	ZNF331	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF333_M07607_2.00	ZNF333	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF177-like factors
+ZNF334_M07740_2.00	ZNF334	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF337_M07583_2.00	ZNF337	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF33A_M07695_2.00	ZNF33A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF33A_M08263_2.00	ZNF33A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF33A_M08369_2.00	ZNF33A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF33B_M07710_2.00	ZNF33B	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF34_M08371_2.00	ZNF34	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF341_M08310_2.00	ZNF341	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF341_MA1655.1	ZNF341	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF343_M07569_2.00	ZNF343	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF343-like factors
+ZNF35_M08250_2.00	ZNF35	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF35_M08334_2.00	ZNF35	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF350_M08396_2.00	ZNF350	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF350-like factors
+ZNF354A_M07622_2.00	ZNF354A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF354A-like factors
+ZNF354A_M08331_2.00	ZNF354A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF354A-like factors
+ZNF354A_MA1978.1	ZNF354A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF354A-like factors
+ZNF354B_M07653_2.00	ZNF354B	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF354A-like factors
+ZNF37A_M08279_2.00	ZNF37A	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF382_M07608_2.00	ZNF382	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF382_M08247_2.00	ZNF382	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF382_M08319_2.00	ZNF382	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF382_MA1594.1	ZNF382	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF37A-like factors
+ZNF383_M07689_2.00	ZNF383	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF384_M08090_2.00	ZNF384	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF362-like factors
+ZNF384_M08306_2.00	ZNF384	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF362-like factors
+ZNF384_MA1125.1	ZNF384	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF362-like factors
+ZNF394_M08318_2.00	ZNF394	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF398_M07716_2.00	ZNF398	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF282-like factors
+ZNF41_M08245_2.00	ZNF41	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN81-like factors
+ZNF41_M08313_2.00	ZNF41	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN81-like factors
+ZNF41_ZNF41_HUMAN.H11MO.0.C	ZNF41	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF415_M08252_2.00	ZNF415	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF415_M08337_2.00	ZNF415	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF416_M08234_2.00	ZNF416	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF417_M07639_2.00	ZNF417	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF417_MA1727.1	ZNF417	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF418_M07712_2.00	ZNF418	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF418_M08376_2.00	ZNF418	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF418_MA1980.1	ZNF418	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF419_M07572_2.00	ZNF419	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF773-like factors
+ZNF419_M08291_2.00	ZNF419	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF773-like factors
+ZNF425_M07758_2.00	ZNF425	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF429_M07714_2.00	ZNF429	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF430_M07575_2.00	ZNF430	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF431_M07711_2.00	ZNF431	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF432_M07773_2.00	ZNF432	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF432-like factors
+ZNF433_M07726_2.00	ZNF433	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF436_M08305_2.00	ZNF436	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF180-like factors
+ZNF439_M07627_2.00	ZNF439	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF44_M07731_2.00	ZNF44	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF442-like factors
+ZNF440_M07628_2.00	ZNF440	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF441_M07717_2.00	ZNF441	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF442_M07742_2.00	ZNF442	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF442-like factors
+ZNF443_M07659_2.00	ZNF443	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF442-like factors
+ZNF445_M07674_2.00	ZNF445	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF449_M08344_2.00	ZNF449	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF449_MA1656.1	ZNF449	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF45_M07579_2.00	ZNF45	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF45_M08241_2.00	ZNF45	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF45_M08304_2.00	ZNF45	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF222-like factors
+ZNF454_M07651_2.00	ZNF454	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF454_M08256_2.00	ZNF454	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF454_M08346_2.00	ZNF454	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF454_MA1712.1	ZNF454	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF460_M07727_2.00	ZNF460	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF460_MA1596.1	ZNF460	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF467_M08260_2.00	ZNF467	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF467_M08358_2.00	ZNF467	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF468_M07754_2.00	ZNF468	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF525-like factors
+ZNF479_M07673_2.00	ZNF479	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF479-like factors
+ZNF480_M07745_2.00	ZNF480	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF483_M07638_2.00	ZNF483	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF484_M07581_2.00	ZNF484	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN81-like factors
+ZNF485_M07741_2.00	ZNF485	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF486_M07775_2.00	ZNF486	N/A	N/A	N/A
+ZNF487_M07782_2.00	ZNF487	C2H2 zinc finger factors	other factors with up to three adjacent zinc fingers	factors with 2-3 adjacent zinc fingers and a KRAB domain
+ZNF490_M08366_2.00	ZNF490	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF492_M07765_2.00	ZNF492	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF98-like factors
+ZNF496_M07609_2.00	ZNF496	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF502_M08375_2.00	ZNF502	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF506_M07565_2.00	ZNF506	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF513_M08322_2.00	ZNF513	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF519_M07642_2.00	ZNF519	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF519_M08255_2.00	ZNF519	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF524_M08339_2.00	ZNF524	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF524-like factors
+ZNF525_M07752_2.00	ZNF525	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF525-like factors
+ZNF527_M07694_2.00	ZNF527	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF528_M07617_2.00	ZNF528	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF528_M08249_2.00	ZNF528	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF528_M08328_2.00	ZNF528	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF528_MA1597.1	ZNF528	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF529_M07678_2.00	ZNF529	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF530_M07668_2.00	ZNF530	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF530_MA1981.1	ZNF530	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF534_M07751_2.00	ZNF534	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF540_M07634_2.00	ZNF540	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF543_M07652_2.00	ZNF543	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF543_M08347_2.00	ZNF543	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF547_M07600_2.00	ZNF547	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF547_M08315_2.00	ZNF547	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF548_M07691_2.00	ZNF548	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF548-like factors
+ZNF549_M07576_2.00	ZNF549	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF549_M08300_2.00	ZNF549	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF549_MA1728.1	ZNF549	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF550_M07772_2.00	ZNF550	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF552_M07655_2.00	ZNF552	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF554_M08341_2.00	ZNF554	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF555_M07682_2.00	ZNF555	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF557_M07582_2.00	ZNF557	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF558-like factors
+ZNF558_M07620_2.00	ZNF558	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF558-like factors
+ZNF561_M07630_2.00	ZNF561	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF562-like factors
+ZNF562_M07629_2.00	ZNF562	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF562-like factors
+ZNF563_M08368_2.00	ZNF563	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF564_M07770_2.00	ZNF564	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF565_M07700_2.00	ZNF565	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF566_M07677_2.00	ZNF566	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF567_M07692_2.00	ZNF567	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF570_M07635_2.00	ZNF570	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF642-like factors
+ZNF571_M07658_2.00	ZNF571	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF573_M07693_2.00	ZNF573	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF574_M08239_2.00	ZNF574	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF526-like factors
+ZNF574_M08294_2.00	ZNF574	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF526-like factors
+ZNF574_MA1982.1	ZNF574	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF526-like factors
+ZNF582_M07564_2.00	ZNF582	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF582_M08274_2.00	ZNF582	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF584_M07631_2.00	ZNF584	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF585A_M07713_2.00	ZNF585A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN81-like factors
+ZNF586_M08281_2.00	ZNF586	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF587_M07746_2.00	ZNF587	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF417-like factors
+ZNF594_M08354_2.00	ZNF594	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF595_M08400_2.00	ZNF595	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF595-like factors
+ZNF596_M08342_2.00	ZNF596	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF605_M07704_2.00	ZNF605	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN300-like factors
+ZNF610_M07616_2.00	ZNF610	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF610_M08327_2.00	ZNF610	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF610_MA1713.1	ZNF610	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF611_M07759_2.00	ZNF611	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN813-like factors
+ZNF613_M07646_2.00	ZNF613	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF350-like factors
+ZNF614_M07593_2.00	ZNF614	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF350-like factors
+ZNF615_M07725_2.00	ZNF615	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF432-like factors
+ZNF616_M07755_2.00	ZNF616	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF841-like factors
+ZNF619_M07649_2.00	ZNF619	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF620_M07648_2.00	ZNF620	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF621_M07636_2.00	ZNF621	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF621_M08254_2.00	ZNF621	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF620-like factors
+ZNF626_M07687_2.00	ZNF626	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF627_M07749_2.00	ZNF627	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF641_M07615_2.00	ZNF641	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF649_M07738_2.00	ZNF649	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF350-like factors
+ZNF652_MA1657.1	ZNF652	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF652-like factors
+ZNF653_M08248_2.00	ZNF653	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP91-like factors
+ZNF662_M07666_2.00	ZNF662	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF667_M07737_2.00	ZNF667	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF667_M08386_2.00	ZNF667	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF667_MA1984.1	ZNF667	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF669_M07690_2.00	ZNF669	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF669_M08262_2.00	ZNF669	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF669_M08367_2.00	ZNF669	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF669_MA1985.1	ZNF669	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF671_M07567_2.00	ZNF671	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF134-like factors
+ZNF674_M07771_2.00	ZNF674	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF675_M07722_2.00	ZNF675	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF675_M08266_2.00	ZNF675	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF675_M08381_2.00	ZNF675	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF675_MA1714.1	ZNF675	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF677_M08382_2.00	ZNF677	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF680_M07637_2.00	ZNF680	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF680_M08343_2.00	ZNF680	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF680_MA1729.1	ZNF680	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF681_M07698_2.00	ZNF681	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF682_M07718_2.00	ZNF682	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF682_MA1599.1	ZNF682	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF684_M07574_2.00	ZNF684	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF684_M08240_2.00	ZNF684	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF684_M08297_2.00	ZNF684	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF69_M07744_2.00	ZNF69	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF692_M08253_2.00	ZNF692	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP91-like factors
+ZNF692_M08338_2.00	ZNF692	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP91-like factors
+ZNF695_M07724_2.00	ZNF695	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF7_M07598_2.00	ZNF7	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF701_M07618_2.00	ZNF701	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF525-like factors
+ZNF701_MA1987.1	ZNF701	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF525-like factors
+ZNF705G_M07763_2.00	ZNF705G	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF705 factors
+ZNF707_M07661_2.00	ZNF707	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF707_MA1715.1	ZNF707	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF708_M07665_2.00	ZNF708	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF708_M08360_2.00	ZNF708	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF708_MA1730.1	ZNF708	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF71_M08267_2.00	ZNF71	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP2-like factors
+ZNF71_M08383_2.00	ZNF71	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFP2-like factors
+ZNF714_M07606_2.00	ZNF714	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF716_M07664_2.00	ZNF716	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF479-like factors
+ZNF730_M07669_2.00	ZNF730	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF100-like factors
+ZNF736_M07767_2.00	ZNF736	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF736-like factors
+ZNF737_M07768_2.00	ZNF737	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF74_M07675_2.00	ZNF74	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF749_M07680_2.00	ZNF749	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF75D_M07683_2.00	ZNF75D	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF75-like zinc finger factors
+ZNF75D_MA1601.2	ZNF75D	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF75-like zinc finger factors
+ZNF76_M08278_2.00	ZNF76	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF76-like factors
+ZNF76_ZNF76_HUMAN.H11MO.0.C	ZNF76	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF76-like factors
+ZNF764_M07623_2.00	ZNF764	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF764-like factors
+ZNF765_M07701_2.00	ZNF765	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF525-like factors
+ZNF766_M07699_2.00	ZNF766	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF768_M08333_2.00	ZNF768	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF768_MA1731.1	ZNF768	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF77_M07644_2.00	ZNF77	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF763-like factors
+ZNF770_M08388_2.00	ZNF770	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF774_M08373_2.00	ZNF774	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF180-like factors
+ZNF776_M07601_2.00	ZNF776	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF548-like factors
+ZNF777_M07703_2.00	ZNF777	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF212-like factors
+ZNF778_M07624_2.00	ZNF778	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF778_M08335_2.00	ZNF778	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF780A_M07729_2.00	ZNF780A	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN283-like factors
+ZNF782_M07706_2.00	ZNF782	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN25-like factors
+ZNF783_M07757_2.00	ZNF783	N/A	N/A	N/A
+ZNF784_M08352_2.00	ZNF784	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF785_M07720_2.00	ZNF785	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF764-like factors
+ZNF786_M07721_2.00	ZNF786	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF319-like factors
+ZNF789_M07750_2.00	ZNF789	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF79_M07697_2.00	ZNF79	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF790_M07732_2.00	ZNF790	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF791_M07640_2.00	ZNF791	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF792_M07660_2.00	ZNF792	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	ZNF134-like factors
+ZNF793_M07688_2.00	ZNF793	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF799_M07705_2.00	ZNF799	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF442-like factors
+ZNF8_M07781_2.00	ZNF8	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF8_M08401_2.00	ZNF8	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF8_MA1718.1	ZNF8	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF8_ZNF8_HUMAN.H11MO.0.C	ZNF8	C2H2 zinc finger factors	factors with multiple dispersed zinc fingers	unclassified
+ZNF805_M07753_2.00	ZNF805	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF460-like factors
+ZNF808_M07747_2.00	ZNF808	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN813-like factors
+ZNF81_M07728_2.00	ZNF81	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN81-like factors
+ZNF816_M07657_2.00	ZNF816	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF816_M08353_2.00	ZNF816	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF816_MA1719.1	ZNF816	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF823_M07733_2.00	ZNF823	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF442-like factors
+ZNF84_M07736_2.00	ZNF84	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF846_M07707_2.00	ZNF846	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF562-like factors
+ZNF85_M07573_2.00	ZNF85	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF85_M08295_2.00	ZNF85	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF85_MA1720.1	ZNF85	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF85_ZNF85_HUMAN.H11MO.0.C	ZNF85	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF860_M07723_2.00	ZNF860	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZFN813-like factors
+ZNF879_M07766_2.00	ZNF879	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF880_M07764_2.00	ZNF880	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF891_M07762_2.00	ZNF891	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF177-like factors
+ZNF90_M07761_2.00	ZNF90	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF93_M07671_2.00	ZNF93	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF93_MA1721.1	ZNF93	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZNF98_M08380_2.00	ZNF98	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF98-like factors
+ZSC22_ZSC22_HUMAN.H11MO.0.C	ZSC22	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZSC31_ZSC31_HUMAN.H11MO.0.C	ZSC31	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZSCAN16_M08377_2.00	ZSCAN16	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZSCAN22_M08261_2.00	ZSCAN22	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZSCAN22_M08361_2.00	ZSCAN22	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZSCAN29_M08271_2.00	ZSCAN29	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF500-like factors
+ZSCAN29_MA1602.1	ZSCAN29	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF500-like factors
+ZSCAN30_M08365_2.00	ZSCAN30	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	unclassified
+ZSCAN31_M08270_2.00	ZSCAN31	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZSCAN31_M08393_2.00	ZSCAN31	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZNF24-like factors
+ZSCAN5C_M08390_2.00	ZSCAN5C	C2H2 zinc finger factors	more than 3 adjacent zinc finger factors	ZSCAN5-like zinc finger factors
